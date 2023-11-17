@@ -3,7 +3,7 @@
 <div align="center">
     Contributed by 
     <a href="https://github.com/Geaming-CHN">Geaming
-    <img src=".images\author.png" style="height: 1em; vertical-align: middle;" />
+    <img src=".images\author.png" style="height: 2em; vertical-align: middle;" />
     </a>
 </div>
 
