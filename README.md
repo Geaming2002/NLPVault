@@ -12,6 +12,10 @@
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
 - [Papers](#papers)
+    - [CoT](#cot)
+    - [Retrieval Enhanced LLM](#retrieval-enhanced-llm)
+    - [Text Generation](#text-generation)
+    - [Agents](#agents)
 - [Models](#models)
 - [Datasets](#datasets)
 - [Tools & Libraries](#tools--libraries)
@@ -30,7 +34,17 @@
 
 ## Papers
 
-***NLP各个领域论文链接link，在每个领域中按照主题，年份进行排序***
+***NLP各个领域论文链接link，在每个领域中按照主题，年份进行排序，√是我用来记录是否阅读的符号，无特殊意义***
+
+Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
+
+### CoT
+
+### Retrieval Enhanced LLM
+
+### Text Generation
+
+### Agents
 
 ## Models
 
