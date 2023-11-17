@@ -28,19 +28,21 @@
 
 ## Introduction
 
-参考了[[Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation)]所搭建的自己的NLP资料仓库。主要聚焦于NLP的LLM及其在各个领域中的应用。欢迎大家随意提PR或者issue。
+参考了[[Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation)]所搭建的自己的NLP资料仓库。主要聚焦于NLP的LLM及其在各个领域中的应用。因为是由我自己整理的资料，可能存在错误，欢迎大家随意提PR或者issue。
 
 与我联系：`jm.li4@siat.ac.cn`
 
 ## Papers
 
-***NLP各个领域论文链接link，在每个领域中按照主题，年份进行排序，√是我用来记录是否阅读的符号，无特殊意义***
+***NLP各个领域论文链接link，在每个领域中按照主题，年份进行排序，√是我用来记录是否阅读的符号，无特殊意义***😎
 
 Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
 ### CoT
 
 ### Retrieval Enhanced LLM
+
+- √`Neurips-2021` **End-to-end training of multi-document reader and retriever for open-domain question answering** [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/da3fde159d754a2555eaa198d2d105b2-Abstract.html)][[code](https://github.com/DevSinghSachan/emdr2)][D Singh, S Reddy, W Hamilton…]
 
 ### Text Generation
 
