@@ -2,16 +2,31 @@
 
 <div align="center">
     Contributed by 
-    <a href="https://github.com/Geaming-CHN">Geaming
-    <img src=".images\author.png" style="height: 1.5em; vertical-align: middle;" />
-    </a>
+    <a href="https://github.com/Geaming-CHN">Geaming</a>
 </div>
 
 
 ## Table of Contents
+<!-- TOC -->
+
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Papers](#papers)
+- [Models](#models)
+- [Datasets](#datasets)
+- [Tools & Libraries](#tools--libraries)
+- [Tutorials & Guides](#tutorials--guides)
+- [Resources](#resources)
+- [Projects](#projects)
+
+<!-- /TOC -->
+
 
 ## Introduction
 
+参考了[[Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation)]所搭建的自己的NLP资料仓库。主要聚焦于NLP的LLM及其在各个领域中的应用。欢迎大家随意提PR或者issue。
+
+与我联系：`jm.li4@siat.ac.cn`
 
 ## Papers
 
