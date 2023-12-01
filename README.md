@@ -12,10 +12,13 @@
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
 - [Papers](#papers)
+    - [Model](#model)
     - [CoT](#cot)
     - [Retrieval Enhanced LLM](#retrieval-enhanced-llm)
     - [Text Generation](#text-generation)
     - [Agents](#agents)
+    - [Benchmark](#benchmark)
+    - [Others](#others)
 - [Models](#models)
 - [Datasets](#datasets)
 - [Tools & Libraries](#tools--libraries)
@@ -106,7 +109,7 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
 ### Others
 
-- `ArXiv-2023` **Lost in the middle: How language models use long contexts** [[paper](https://arxiv.org/abs/2307.03172)][NF Liu, K Lin, J Hewitt, A Paranjape…]
+- √`ArXiv-2023` **Lost in the middle: How language models use long contexts** [[paper](https://arxiv.org/abs/2307.03172)][NF Liu, K Lin, J Hewitt, A Paranjape…]
 
 
 
