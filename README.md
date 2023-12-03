@@ -45,7 +45,7 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
 - ~`ArXiv-2023` **Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey** [[paper](https://arxiv.org/abs/2311.12351)][[code](https://github.com/Strivin0311/long-llms-learning)][Y Huang, J Xu, Z Jiang, J Lai…]
 
-- ~`ArXiv-2023` **A survey on long text modeling with transformers** [[paper](https://arxiv.org/abs/2302.14502)][[code]()][Z Dong, T Tang, L Li, WX Zhao]
+- ~`ArXiv-2023` **A survey on long text modeling with transformers** [[paper](https://arxiv.org/abs/2302.14502)][Z Dong, T Tang, L Li, WX Zhao]
 
 ### CoT
 
