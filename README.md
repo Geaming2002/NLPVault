@@ -134,16 +134,6 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
 ***常用NLP数据集链接和描述***
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-ixdq{border-color:inherit;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
-  vertical-align:middle;will-change:transform}
-</style>
 <table class="tg">
 <thead>
   <tr>
