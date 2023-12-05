@@ -134,70 +134,70 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
 ***常用NLP数据集链接和描述***
 
-<table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-ixdq" rowspan="2">Dataset</th>
-    <th class="tg-ixdq" rowspan="2">Language</th>
-    <th class="tg-ixdq" rowspan="2">Task Amount</th>
-    <th class="tg-ixdq" colspan="7">Task Types</th>
-    <th class="tg-ixdq" colspan="2">Quality</th>
-    <th class="tg-ixdq" rowspan="2">Splits</th>
-    <th class="tg-ixdq" rowspan="2">Size(B)</th>
-    <th class="tg-ixdq" rowspan="2">Count</th>
-    <th class="tg-ixdq" rowspan="2">Format</th>
-    <th class="tg-ixdq" rowspan="2">Link</th>
+    <th rowspan="2">Dataset</th>
+    <th rowspan="2">Language</th>
+    <th rowspan="2">Task Amount</th>
+    <th colspan="7">Task Types</th>
+    <th colspan="2">Quality</th>
+    <th rowspan="2">Splits</th>
+    <th rowspan="2">Size(B)</th>
+    <th rowspan="2">Count</th>
+    <th rowspan="2">Format</th>
+    <th rowspan="2">Link</th>
   </tr>
   <tr>
-    <th class="tg-ixdq">TC</th>
-    <th class="tg-ixdq">SL</th>
-    <th class="tg-ixdq">MT</th>
-    <th class="tg-ixdq">MCQA</th>
-    <th class="tg-ixdq">ODQA</th>
-    <th class="tg-ixdq">TS</th>
-    <th class="tg-ixdq">TG</th>
-    <th class="tg-ixdq">Human Labeled</th>
-    <th class="tg-ixdq">Model Gen</th>
+    <th>TC</th>
+    <th>SL</th>
+    <th>MT</th>
+    <th>MCQA</th>
+    <th>ODQA</th>
+    <th>TS</th>
+    <th>TG</th>
+    <th>Human Labeled</th>
+    <th>Model Gen</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">CommonsenseQA</td>
-    <td class="tg-c3ow">en</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">❌</td>
-    <td class="tg-c3ow">❌</td>
-    <td class="tg-c3ow">❌</td>
-    <td class="tg-c3ow">✅</td>
-    <td class="tg-c3ow">❌</td>
-    <td class="tg-c3ow">❌</td>
-    <td class="tg-c3ow">❌</td>
-    <td class="tg-c3ow">✅</td>
-    <td class="tg-c3ow">❌</td>
-    <td class="tg-c3ow">train/dev/test</td>
-    <td class="tg-c3ow">3.7M/471K/423K</td>
-    <td class="tg-c3ow">9.7K/1.2K/1.1K</td>
-    <td class="tg-c3ow">jsonl</td>
-    <td class="tg-c3ow"><a href="https://huggingface.co/datasets/commonsense_qa?row=5" target="_blank" rel="noopener noreferrer">🤗</a><a href="https://www.tau-nlp.sites.tau.ac.il/commonsenseqa" target="_blank" rel="noopener noreferrer">🔗</a></td>
+    <td>CommonsenseQA</td>
+    <td>en</td>
+    <td>1</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>✅</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>✅</td>
+    <td>❌</td>
+    <td>train/dev/test</td>
+    <td>3.7M/471K/423K</td>
+    <td>9.7K/1.2K/1.1K</td>
+    <td>jsonl</td>
+    <td><a href="https://huggingface.co/datasets/commonsense_qa?row=5" target="_blank" rel="noopener noreferrer">🤗</a><a href="https://www.tau-nlp.sites.tau.ac.il/commonsenseqa" target="_blank" rel="noopener noreferrer">🔗</a></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </tbody>
 </table>
