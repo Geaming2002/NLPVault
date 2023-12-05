@@ -146,6 +146,10 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
 #### Multiple-Choice Question Answering
 
+- **CommonsenseQA**
+
+    多项选择问答数据集，需要不同类型的常识知识来预测正确答案。它包含 12,102 个问题，包括一个正确答案和四个干扰答案。
+
 #### Open-Domain Question Answering
 
 #### Factoid Question Answering
