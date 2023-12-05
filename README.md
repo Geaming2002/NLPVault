@@ -21,6 +21,15 @@
     - [Others](#others)
 - [Models](#models)
 - [Datasets](#datasets)
+    - [Text Classificaton](#text-classificaton)
+    - [Sequence Labeling](#sequence-labeling)
+    - [Machine Translation](#machine-translation)
+    - [Question Answering](#question-answering)
+        - [Multiple-Choice Question Answering](#multiple-choice-question-answering)
+        - [Open-Domain Question Answering](#open-domain-question-answering)
+        - [Factoid Question Answering](#factoid-question-answering)
+    - [Text Summarization](#text-summarization)
+    - [Text Generation](#text-generation)
 - [Tools & Libraries](#tools--libraries)
 - [Tutorials & Guides](#tutorials--guides)
 - [Resources](#resources)
@@ -124,6 +133,24 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 ## Datasets
 
 ***常用NLP数据集链接和描述***
+
+### Text Classificaton
+
+### Sequence Labeling
+
+### Machine Translation
+
+### Question Answering
+
+#### Multiple-Choice Question Answering
+
+#### Open-Domain Question Answering
+
+#### Factoid Question Answering
+
+### Text Summarization
+
+### Text Generation
 
 ## Tools & Libraries
 
