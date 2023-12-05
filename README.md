@@ -166,6 +166,10 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
 ### Text Generation
 
+- **Writing Prompts**
+
+    收集了一个包含 300K 个人工编写故事的大型数据集，并配以来自在线论坛的写作提示。我们的数据集支持分层故事生成，其中模型首先生成一个前提，然后将其转换为一段文本。
+
 ## Tools & Libraries
 
 ***NLP工具和库***
