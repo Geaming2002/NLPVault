@@ -134,6 +134,84 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
 ***常用NLP数据集链接和描述***
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-ixdq{border-color:inherit;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
+  vertical-align:middle;will-change:transform}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ixdq" rowspan="2">Dataset</th>
+    <th class="tg-ixdq" rowspan="2">Language</th>
+    <th class="tg-ixdq" rowspan="2">Task Amount</th>
+    <th class="tg-ixdq" colspan="7">Task Types</th>
+    <th class="tg-ixdq" colspan="2">Quality</th>
+    <th class="tg-ixdq" rowspan="2">Splits</th>
+    <th class="tg-ixdq" rowspan="2">Size(B)</th>
+    <th class="tg-ixdq" rowspan="2">Count</th>
+    <th class="tg-ixdq" rowspan="2">Format</th>
+    <th class="tg-ixdq" rowspan="2">Link</th>
+  </tr>
+  <tr>
+    <th class="tg-ixdq">TC</th>
+    <th class="tg-ixdq">SL</th>
+    <th class="tg-ixdq">MT</th>
+    <th class="tg-ixdq">MCQA</th>
+    <th class="tg-ixdq">ODQA</th>
+    <th class="tg-ixdq">TS</th>
+    <th class="tg-ixdq">TG</th>
+    <th class="tg-ixdq">Human Labeled</th>
+    <th class="tg-ixdq">Model Gen</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">CommonsenseQA</td>
+    <td class="tg-c3ow">en</td>
+    <td class="tg-c3ow">1</td>
+    <td class="tg-c3ow">❌</td>
+    <td class="tg-c3ow">❌</td>
+    <td class="tg-c3ow">❌</td>
+    <td class="tg-c3ow">✅</td>
+    <td class="tg-c3ow">❌</td>
+    <td class="tg-c3ow">❌</td>
+    <td class="tg-c3ow">❌</td>
+    <td class="tg-c3ow">✅</td>
+    <td class="tg-c3ow">❌</td>
+    <td class="tg-c3ow">train/dev/test</td>
+    <td class="tg-c3ow">3.7M/471K/423K</td>
+    <td class="tg-c3ow">9.7K/1.2K/1.1K</td>
+    <td class="tg-c3ow">jsonl</td>
+    <td class="tg-c3ow"><a href="https://huggingface.co/datasets/commonsense_qa?row=5" target="_blank" rel="noopener noreferrer">🤗</a><a href="https://www.tau-nlp.sites.tau.ac.il/commonsenseqa" target="_blank" rel="noopener noreferrer">🔗</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"></td>
+  </tr>
+</tbody>
+</table>
+
 ### Text Classificaton
 
 ### Sequence Labeling
