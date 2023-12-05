@@ -152,6 +152,10 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
 #### Open-Domain Question Answering
 
+- **Natural Questions**
+
+    NQ语料库包含来自真实用户的问题，它要求QA系统阅读和理解整篇维基百科文章，该文章可能包含也可能不包含问题的答案。包含真实的用户问题。许多参与者只想使用提取的文本，因此我们还提供了仅 4GB 的训练数据的简化版本，完整的数据集为 42GB 。
+
 #### Factoid Question Answering
 
 ### Text Summarization
