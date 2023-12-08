@@ -183,6 +183,10 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
 ***NLP工具和库***
 
+- [**RLHF-Label-Tool**](https://github.com/SupritYoung/RLHF-Label-Tool)
+
+    RLHF 标注工具 是一个简单易用的，可以在大模型进行 RLHF（基于人类反馈的强化学习）标注排序的工具，旨在帮助用户在友好的图形界面中对生成式模型生成的答案进行排序标注。
+
 ## Tutorials & Guides
 
 ***NLP入门和高级教程***
