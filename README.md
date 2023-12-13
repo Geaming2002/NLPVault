@@ -5,7 +5,7 @@
     <a href="https://github.com/Geaming-CHN">Geaming</a>
 </div>
 
-
+****
 ## Table of Contents
 <!-- TOC -->
 
@@ -30,6 +30,9 @@
         - [Factoid Question Answering](#factoid-question-answering)
     - [Text Summarization](#text-summarization)
     - [Text Generation](#text-generation)
+- [Metrics and Benchmarks](#metrics-and-benchmarks)
+    - [Metircs](#metircs)
+    - [Benchmarks](#benchmarks)
 - [Tools & Libraries](#tools--libraries)
 - [Tutorials & Guides](#tutorials--guides)
 - [Resources](#resources)
@@ -37,13 +40,14 @@
 
 <!-- /TOC -->
 
-
+****
 ## Introduction
 
 参考了[[Awesome-Story-Generation](https://github.com/yingpengma/Awesome-Story-Generation)]所搭建的自己的NLP资料仓库。主要聚焦于NLP的LLM及其在各个领域中的应用。因为是由我自己整理的资料，可能存在错误，欢迎大家随意提PR或者issue。
 
 与我联系：`jm.li4@siat.ac.cn`
 
+****
 ## Papers
 
 ***NLP各个领域论文链接link，在每个领域中按照主题，年份进行排序，√是我用来记录是否阅读的符号，无特殊意义，~表示泛读***😎
@@ -129,11 +133,12 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 - √`ArXiv-2023` **Lost in the middle: How language models use long contexts** [[paper](https://arxiv.org/abs/2307.03172)][NF Liu, K Lin, J Hewitt, A Paranjape…]
 
 
-
+****
 ## Models
 
 ***NLP模型和算法***
 
+****
 ## Datasets
 
 ***常用NLP数据集链接和描述***
@@ -183,6 +188,28 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
     收集了一个包含 300K 个人工编写故事的大型数据集，并配以来自在线论坛的写作提示。我们的数据集支持分层故事生成，其中模型首先生成一个前提，然后将其转换为一段文本。
 
+****
+## Metrics and Benchmarks
+
+***一些NLP评价指标***
+
+### Metircs
+
+- **Perplexity (PPL)** 
+
+    Perplexity is a measure of uncertainty in the value of a sample from a discrete probability distribution. The larger the perplexity, the less likely it is that an observer can guess the value which will be drawn from the distribution.
+
+- **Bilingual Evaluation Understudy (BLEU)**
+
+    An algorithm for evaluating the quality of text which has been machine-translated from one natural language to another. Quality is considered to be the correspondence between a machine's output and that of a human: "the closer a machine translation is to a professional human translation, the better it is" – this is the central idea behind BLEU.
+
+    > **Bleu: a method for automatic evaluation of machine translation** [[paper](https://aclanthology.org/P02-1040.pdf)][K Papineni, S Roukos, T Ward…]
+
+
+### Benchmarks
+
+
+****
 ## Tools & Libraries
 
 ***NLP工具和库***
@@ -195,15 +222,19 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
     RLHF 标注工具 是一个简单易用的，可以在大模型进行 RLHF（基于人类反馈的强化学习）标注排序的工具，旨在帮助用户在友好的图形界面中对生成式模型生成的答案进行排序标注。
 
+****
 ## Tutorials & Guides
 
 ***NLP入门和高级教程***
 
+****
 ## Resources
 
 ***其他资源，包括但不限于会议视频、博客文章、讲座笔记等***
 
+****
 ## Projects
 
 ***有趣的NLP项目***
 
+****
