@@ -62,6 +62,8 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
 ### CoT
 
+- √`Arxiv-2023` **Chain-of-verification reduces hallucination in large language models** [[paper](https://arxiv.org/abs/2309.11495)][S Dhuliawala, M Komeili, J Xu, R Raileanu, X Li…]
+
 - `ACL-2023 findings` **Towards reasoning in large language models: A survey** [[paper](https://arxiv.org/abs/2212.10403)][[code](https://github.com/jeffhj/LM-reasoning)][J Huang, KCC Chang]
 
 - √`ACL-2023` **Interleaving retrieval with chain-of-thought reasoning for knowledge-intensive multi-step questions** [[paper](https://arxiv.org/abs/2212.10509)][[code](https://github.com/stonybrooknlp/ircot)][H Trivedi, N Balasubramanian, T Khot…]
