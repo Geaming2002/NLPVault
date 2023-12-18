@@ -224,6 +224,20 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
     RLHF 标注工具 是一个简单易用的，可以在大模型进行 RLHF（基于人类反馈的强化学习）标注排序的工具，旨在帮助用户在友好的图形界面中对生成式模型生成的答案进行排序标注。
 
+- [**LangChain**](https://www.langchain.com/)
+
+    LangChain是一个基于语言模型开发应用程序的框架。它可以实现以下应用程序：
+    
+    - 上下文感知：将语言模型连接到上下文源（提示指令、few-shot，内容以使其响应为基础等）
+    - 原因：依靠语言模型进行推理（关于如何根据提供的上下文回答、采取什么行动等）
+
+    该框架由几个部分组成
+    
+    - LangChain：Python 和 JavaScript 库。包含无数组件的接口和集成，将这些组件组合成链和代理的，以及链和代理的实现
+    - LangChain Templates：一组易于部署的参考架构，适用于各种任务
+    - LangServe：用于将 LangChain 部署为 REST API 的库
+    - LangSmith：一个开发者平台，可以调试、测试、评估和监控基于LLM框架构建的链，并于 LangChain 无缝集成
+
 ****
 ## Tutorials & Guides
 
