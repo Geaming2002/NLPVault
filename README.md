@@ -179,6 +179,14 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
     OpenBookQA 是一种新型的问题解答数据集，它仿照用于评估人类对某一学科理解的开卷考试。该数据集由 5957 道小学科学选择题组成（4957 道训练题、500 道设计题、500 道测试题），用于探究对一小本包含 1326 个核心科学事实的 "书 "的理解，以及将这些事实应用于新情况的能力。在训练中，数据集包括从每个问题到其旨在探究的核心科学事实的映射。回答 OpenBookQA 的问题需要额外的广泛常识，而这些常识并不包含在书中。
 
+#### Multi-span Question Answering
+
+- **MultiSpanQA**
+
+    多跨度问题，即答案是文本中一系列多个不连续跨度的问题，在现实生活中很常见，但研究较少。在本文中，我们介绍了 MultiSpanQA1，这是一个专注于多跨度答案问题的新数据集。原始问题和上下文是从自然问题（Kwiatkowski 等人，2019 年）数据集中提取的。
+
+    <img src=".images/MultiSpanQA_example.png" style="width: 30%; height: auto;">
+
 
 #### Factoid Question Answering
 

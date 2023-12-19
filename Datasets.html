@@ -1,37 +1,42 @@
 <style type="text/css">
-  .tg  {border-collapse:collapse;border-spacing:0;}
+  .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
   .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
     overflow:hidden;padding:10px 5px;word-break:normal;}
   .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
     font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
   .tg .tg-hq1h{border-color:inherit;color:#00E;text-align:center;text-decoration:underline;vertical-align:top}
   .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-  .tg .tg-uzvj{border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
+  .tg .tg-ixdq{border-color:inherit;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
+    vertical-align:middle;will-change:transform}
+  .tg .tg-dncm{border-color:inherit;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
+    vertical-align:top;will-change:transform}
+  .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
   </style>
   <table class="tg">
   <thead>
     <tr>
-      <th class="tg-uzvj" rowspan="2">Dataset</th>
-      <th class="tg-uzvj" rowspan="2">Language</th>
-      <th class="tg-uzvj" rowspan="2">Task Amount</th>
-      <th class="tg-uzvj" colspan="7">Task Types</th>
-      <th class="tg-uzvj" colspan="2">Quality</th>
-      <th class="tg-uzvj" rowspan="2">Splits</th>
-      <th class="tg-uzvj" rowspan="2">Size(B)</th>
-      <th class="tg-uzvj" rowspan="2">Format</th>
-      <th class="tg-uzvj" rowspan="2">Paper</th>
-      <th class="tg-uzvj" rowspan="2">Link</th>
+      <th class="tg-ixdq" rowspan="2">Dataset</th>
+      <th class="tg-ixdq" rowspan="2">Language</th>
+      <th class="tg-ixdq" rowspan="2">Task Amount</th>
+      <th class="tg-ixdq" colspan="8">Task Types</th>
+      <th class="tg-ixdq" colspan="2">Quality</th>
+      <th class="tg-ixdq" rowspan="2">Splits</th>
+      <th class="tg-ixdq" rowspan="2">Size(B)</th>
+      <th class="tg-ixdq" rowspan="2">Format</th>
+      <th class="tg-ixdq" rowspan="2">Paper</th>
+      <th class="tg-ixdq" rowspan="2">Link</th>
     </tr>
     <tr>
-      <th class="tg-uzvj">TC</th>
-      <th class="tg-uzvj">SL</th>
-      <th class="tg-uzvj">MT</th>
-      <th class="tg-uzvj">MCQA</th>
-      <th class="tg-uzvj">ODQA</th>
-      <th class="tg-uzvj">TS</th>
-      <th class="tg-uzvj">TG</th>
-      <th class="tg-uzvj">Human Labeled</th>
-      <th class="tg-uzvj">Model Gen</th>
+      <th class="tg-ixdq">TC</th>
+      <th class="tg-ixdq">SL</th>
+      <th class="tg-ixdq">MT</th>
+      <th class="tg-ixdq">MCQA</th>
+      <th class="tg-ixdq">ODQA</th>
+      <th class="tg-dncm">MSQA</th>
+      <th class="tg-ixdq">TS</th>
+      <th class="tg-ixdq">TG</th>
+      <th class="tg-ixdq">Human Labeled</th>
+      <th class="tg-ixdq">Model Gen</th>
     </tr>
   </thead>
   <tbody>
@@ -43,6 +48,7 @@
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">✅</td>
+      <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">❌</td>
@@ -65,13 +71,14 @@
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">❌</td>
+      <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">✅</td>
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">train/val/test</td>
       <td class="tg-c3ow">15.9M/2M/5M</td>
       <td class="tg-c3ow">csv/jsonl</td>
-      <td class="tg-c3ow"><a href="https://arxiv.org/abs/1909.00277" target="_blank" rel="noopener noreferrer">📑</a></td>
-      <td class="tg-c3ow"><a href="https://huggingface.co/datasets/cosmos_qa" target="_blank" rel="noopener noreferrer">🤗</a><a href="https://wilburone.github.io/cosmos/" target="_blank" rel="noopener noreferrer">🔗</a></td>
+      <td class="tg-hq1h"><a href="https://arxiv.org/abs/1909.00277">📑</a></td>
+      <td class="tg-hq1h"><a href="https://huggingface.co/datasets/cosmos_qa">🤗</a><a href="https://wilburone.github.io/cosmos/">🔗</a></td>
     </tr>
     <tr>
       <td class="tg-c3ow">Social IQA</td>
@@ -84,12 +91,13 @@
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">❌</td>
+      <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">✅</td>
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">train/val</td>
       <td class="tg-c3ow">7.8M/464K</td>
       <td class="tg-c3ow">jsonl</td>
-      <td class="tg-hq1h"><a href="https://arxiv.org/abs/1904.09728v3" target="_blank" rel="noopener noreferrer">📑</a></td>
+      <td class="tg-hq1h"><a href="https://arxiv.org/abs/1904.09728v3">📑</a></td>
       <td class="tg-hq1h"><a href="https://huggingface.co/datasets/social_i_qa">🤗</a><a href="https://paperswithcode.com/dataset/social-iqa">🔗</a></td>
     </tr>
     <tr>
@@ -101,6 +109,7 @@
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">✅</td>
+      <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">✅</td>
@@ -122,18 +131,40 @@
       <td class="tg-c3ow">✅</td>
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">❌</td>
+      <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">✅</td>
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">train/val/test</td>
       <td class="tg-c3ow">2M/224K/218K</td>
       <td class="tg-c3ow">jsonl</td>
-      <td class="tg-c3ow"><a href="https://arxiv.org/abs/1809.02789v1" target="_blank" rel="noopener noreferrer">📑</a></td>
-      <td class="tg-c3ow"><a href="https://huggingface.co/datasets/openbookqa" target="_blank" rel="noopener noreferrer">🤗</a><a href="https://allenai.org/data/open-book-qa" target="_blank" rel="noopener noreferrer">🔗</a></td>
+      <td class="tg-hq1h"><a href="https://arxiv.org/abs/1809.02789v1" target="_blank" rel="noopener noreferrer">📑</a></td>
+      <td class="tg-hq1h"><a href="https://huggingface.co/datasets/openbookqa" target="_blank" rel="noopener noreferrer">🤗</a><a href="https://allenai.org/data/open-book-qa" target="_blank" rel="noopener noreferrer">🔗</a></td>
+    </tr>
+    <tr>
+      <td class="tg-c3ow">MultiSpanQA</td>
+      <td class="tg-c3ow">en</td>
+      <td class="tg-c3ow">1</td>
+      <td class="tg-c3ow">❌</td>
+      <td class="tg-c3ow">❌</td>
+      <td class="tg-c3ow">❌</td>
+      <td class="tg-c3ow">❌</td>
+      <td class="tg-c3ow">❌</td>
+      <td class="tg-c3ow">✅</td>
+      <td class="tg-c3ow">❌</td>
+      <td class="tg-c3ow">❌</td>
+      <td class="tg-c3ow">✅</td>
+      <td class="tg-c3ow">❌</td>
+      <td class="tg-c3ow">train/val/test</td>
+      <td class="tg-c3ow">17M/2M/1M</td>
+      <td class="tg-c3ow">jsonl</td>
+      <td class="tg-c3ow"><a href="https://aclanthology.org/2022.naacl-main.90/" target="_blank" rel="noopener noreferrer">📑</a></td>
+      <td class="tg-hq1h"><a href="https://github.com/haonan-li/MultiSpanQA" target="_blank" rel="noopener noreferrer">🔗</a></td>
     </tr>
     <tr>
       <td class="tg-c3ow">Writing Prompts</td>
       <td class="tg-c3ow">en</td>
       <td class="tg-c3ow">1</td>
+      <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">❌</td>
       <td class="tg-c3ow">❌</td>
@@ -158,6 +189,7 @@
       <td class="tg-c3ow"></td>
       <td class="tg-c3ow"></td>
       <td class="tg-c3ow"></td>
+      <td class="tg-0pky"></td>
       <td class="tg-c3ow"></td>
       <td class="tg-c3ow"></td>
       <td class="tg-c3ow"></td>
