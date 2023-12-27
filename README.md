@@ -106,6 +106,8 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
 ### Text Generation
 
+- √`ACL-2023` **Doc: Improving long story coherence with detailed outline control** [[paper](https://arxiv.org/abs/2212.10077)][[code](https://github.com/yangkevin2/doc-story-generation)][K Yang, D Klein, N Peng, Y Tian]
+
 - √`ACL-2023` **STORYWARS: A Dataset and Instruction Tuning Baselines for Collaborative Story Understanding and Generation** [[paper](https://arxiv.org/abs/2305.08152)][[code](https://github.com/ylndu/storywars)][Y Du, L Chilton]
 
     - P.S. 论文中附的代码仓库链接已经404，试图和作者取得联系(2023/11/20 15:30)。
