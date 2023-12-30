@@ -230,13 +230,11 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
 ***NLP工具和库***
 
+
+
 - [**NLTK**](https://www.nltk.org/)
 
     NLTK 是一个领先的平台，用于构建 Python 程序以处理人类语言数据。它为 50 多个语料库和词汇资源（如 WordNet）提供了易于使用的界面，以及一套用于分类、标记化、词干提取、标记、解析和语义推理的文本处理库、工业级 NLP 库的包装器，以及一个活跃的讨论论坛。
-
-- [**RLHF-Label-Tool**](https://github.com/SupritYoung/RLHF-Label-Tool)
-
-    RLHF 标注工具 是一个简单易用的，可以在大模型进行 RLHF（基于人类反馈的强化学习）标注排序的工具，旨在帮助用户在友好的图形界面中对生成式模型生成的答案进行排序标注。
 
 - [**LangChain**](https://www.langchain.com/)
 
@@ -251,6 +249,14 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
     - LangChain Templates：一组易于部署的参考架构，适用于各种任务
     - LangServe：用于将 LangChain 部署为 REST API 的库
     - LangSmith：一个开发者平台，可以调试、测试、评估和监控基于LLM框架构建的链，并于 LangChain 无缝集成
+
+- [**RLHF-Label-Tool**](https://github.com/SupritYoung/RLHF-Label-Tool)
+
+    RLHF 标注工具 是一个简单易用的，可以在大模型进行 RLHF（基于人类反馈的强化学习）标注排序的工具，旨在帮助用户在友好的图形界面中对生成式模型生成的答案进行排序标注。
+
+- [**label-studio**](https://github.com/HumanSignal/label-studio)
+
+    Label Studio 是一个开源数据标签工具。它允许您使用简单明了的 UI 标记音频、文本、图像、视频和时间序列等数据类型，并导出为各种模型格式。它可用于准备原始数据或改进现有训练数据，以获得更准确的 ML 模型。
 
 ****
 ## Tutorials & Guides
