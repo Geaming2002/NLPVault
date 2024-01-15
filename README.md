@@ -14,10 +14,11 @@
 - [Papers](#papers)
     - [Model](#model)
     - [CoT](#cot)
+    - [Prompt Engineering](#prompt-engineering)
     - [Retrieval Enhanced LLM](#retrieval-enhanced-llm)
     - [Text Generation](#text-generation)
     - [Agents](#agents)
-    - [Benchmark](#benchmark)
+    - [Benchmark & Datasets](#benchmark--datasets)
     - [Others](#others)
 - [Models](#models)
 - [Datasets](#datasets)
@@ -27,6 +28,7 @@
     - [Question Answering](#question-answering)
         - [Multiple-Choice Question Answering](#multiple-choice-question-answering)
         - [Open-Domain Question Answering](#open-domain-question-answering)
+        - [Multi-span Question Answering](#multi-span-question-answering)
         - [Factoid Question Answering](#factoid-question-answering)
     - [Text Summarization](#text-summarization)
     - [Text Generation](#text-generation)
@@ -130,11 +132,13 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
 ### Agents
 
-### Benchmark
+### Benchmark & Datasets
 
 - √`ACL-2023` **WikiHowQA: A Comprehensive Benchmark for Multi-Document Non-Factoid Question Answering** [[paper](https://aclanthology.org/2023.acl-long.290/)][[code](https://lurunchik.github.io/WikiHowNFQA/)][V Bolotova-Baranova, V Blinov…]
 
 - √`TACL-2022` **LOT: A story-centric benchmark for evaluating Chinese long text understanding and generation** [[paper](https://direct.mit.edu/tacl/article-abstract/doi/10.1162/tacl_a_00469/110537)][[code](https://github.com/thu-coai/LOT-LongLM)][J Guan, Z Feng, Y Chen, R He, X Mao, C Fan…]
+
+- √`ACL-2022` **TruthfulQA: Measuring how models mimic human falsehoods** [[paper](https://arxiv.org/abs/2109.07958)][[code](https://github.com/sylinrl/TruthfulQA)][S Lin, J Hilton, O Evans]
 
 ### Others
 
@@ -184,6 +188,10 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 - **OpenBookQA**
 
     OpenBookQA 是一种新型的问题解答数据集，它仿照用于评估人类对某一学科理解的开卷考试。该数据集由 5957 道小学科学选择题组成（4957 道训练题、500 道设计题、500 道测试题），用于探究对一小本包含 1326 个核心科学事实的 "书 "的理解，以及将这些事实应用于新情况的能力。在训练中，数据集包括从每个问题到其旨在探究的核心科学事实的映射。回答 OpenBookQA 的问题需要额外的广泛常识，而这些常识并不包含在书中。
+
+- **TruthfulQA**
+
+    提出了基准来衡量语言模型在生成问题答案时是否真实。该基准包括 817 个问题，涵盖 38 个类别，包括健康、法律、金融和政治。我们精心设计了一些问题，有些人会因为错误的信念或误解而错误地回答这些问题。为了表现良好，模型必须避免产生通过模仿人类文本而获得的错误答案。
 
 #### Multi-span Question Answering
 
