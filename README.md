@@ -285,6 +285,10 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
     OpenCompass能够帮助你穿越评估大型语言模型的重重迷雾。OpenCompass提供丰富的算法和功能支持，期待OpenCompass能够帮助社区更便捷地对NLP模型的性能进行公平全面的评估。
 
+- [**Codabench**](https://www.codabench.org/)([GitHub](https://github.com/codalab/codabench))
+
+    Codabench 是一个基于 Web 的开源平台，使研究人员、开发人员和数据科学家能够协作，目标是推进使用机器学习和高级计算的研究领域。Codabench 通过其在线社区帮助解决面向数据的研究领域的许多常见问题，人们可以在其中共享工作表并参加竞赛和基准测试。它可以看作是CodaLab Competitions的2版本。
+
 
 ****
 ## Tutorials & Guides
