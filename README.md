@@ -36,7 +36,11 @@
     - [Metircs](#metircs)
     - [Benchmarks](#benchmarks)
 - [Tools & Libraries](#tools--libraries)
+    - [Labeling Tools](#labeling-tools)
+    - [Python Package](#python-package)
+    - [Others](#others)
 - [Tutorials & Guides](#tutorials--guides)
+    - [Leaderboards](#leaderboards)
 - [Resources](#resources)
 - [Projects](#projects)
 
@@ -199,7 +203,7 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
     多跨度问题，即答案是文本中一系列多个不连续跨度的问题，在现实生活中很常见，但研究较少。在本文中，我们介绍了 MultiSpanQA1，这是一个专注于多跨度答案问题的新数据集。原始问题和上下文是从自然问题（Kwiatkowski 等人，2019 年）数据集中提取的。
 
-    <img src=".images/MultiSpanQA_example.png" style="width: 30%; height: auto;">
+    <div style="text-align: center;"><img src=".images/MultiSpanQA_example.png" style="width: 30%; height: auto;"></div>
 
 
 #### Factoid Question Answering
@@ -267,6 +271,13 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
     - LangChain Templates：一组易于部署的参考架构，适用于各种任务
     - LangServe：用于将 LangChain 部署为 REST API 的库
     - LangSmith：一个开发者平台，可以调试、测试、评估和监控基于LLM框架构建的链，并于 LangChain 无缝集成
+
+- [**TextBox 2.0 (妙笔)**](https://github.com/RUCAIBox/TextBox)
+
+    TextBox 2.0 是一个基于 Python 和 PyTorch 的最新文本生成库，专注于构建一个统一和标准化的管道，用于将预训练的语言模型应用于文本生成。
+
+    <div style="text-align: center;"><img src=".images/TextBox2.0framework.png" style="width: 30%; height: auto;"></div>
+
 
 ### Others
 
