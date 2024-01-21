@@ -238,7 +238,17 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
 ***NLP工具和库***
 
+### Labeling Tools
 
+- [**RLHF-Label-Tool**](https://github.com/SupritYoung/RLHF-Label-Tool)
+
+    RLHF 标注工具 是一个简单易用的，可以在大模型进行 RLHF（基于人类反馈的强化学习）标注排序的工具，旨在帮助用户在友好的图形界面中对生成式模型生成的答案进行排序标注。
+
+- [**label-studio**](https://github.com/HumanSignal/label-studio)
+
+    Label Studio 是一个开源数据标签工具。它允许您使用简单明了的 UI 标记音频、文本、图像、视频和时间序列等数据类型，并导出为各种模型格式。它可用于准备原始数据或改进现有训练数据，以获得更准确的 ML 模型。
+
+### Python Package
 
 - [**NLTK**](https://www.nltk.org/)
 
@@ -258,23 +268,30 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
     - LangServe：用于将 LangChain 部署为 REST API 的库
     - LangSmith：一个开发者平台，可以调试、测试、评估和监控基于LLM框架构建的链，并于 LangChain 无缝集成
 
-- [**RLHF-Label-Tool**](https://github.com/SupritYoung/RLHF-Label-Tool)
+### Others
 
-    RLHF 标注工具 是一个简单易用的，可以在大模型进行 RLHF（基于人类反馈的强化学习）标注排序的工具，旨在帮助用户在友好的图形界面中对生成式模型生成的答案进行排序标注。
+- [**OpenCompass**](https://opencompass.org.cn/) ([GitHub](https://github.com/open-compass/opencompass/tree/main))
 
-- [**label-studio**](https://github.com/HumanSignal/label-studio)
+    OpenCompass能够帮助你穿越评估大型语言模型的重重迷雾。OpenCompass提供丰富的算法和功能支持，期待OpenCompass能够帮助社区更便捷地对NLP模型的性能进行公平全面的评估。
 
-    Label Studio 是一个开源数据标签工具。它允许您使用简单明了的 UI 标记音频、文本、图像、视频和时间序列等数据类型，并导出为各种模型格式。它可用于准备原始数据或改进现有训练数据，以获得更准确的 ML 模型。
 
 ****
 ## Tutorials & Guides
 
 ***NLP入门和高级教程***
 
+### Leaderboards
+
+LLMs 榜单，方便筛选性能优异模型或是追踪新出的模型
+
+- [OpenCompass Leaderboard](https://opencompass.org.cn/leaderboard-llm)
+
 ****
 ## Resources
 
 ***其他资源，包括但不限于会议视频、博客文章、讲座笔记等***
+
+
 
 ****
 ## Projects
