@@ -278,6 +278,10 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
     <div style="text-align: center;"><img src=".images/TextBox2.0framework.png" style="width: 30%; height: auto;"></div>
 
+- [**DeepSpeed**](https://github.com/microsoft/DeepSpeed)
+
+    DeepSpeed 支持世界上最强大的语言模型，如 MT-530B 和 BLOOM。它是一款易于使用的深度学习优化软件套件，可为训练和推理提供前所未有的规模和速度。
+
 
 ### Others
 
