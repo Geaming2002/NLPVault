@@ -310,6 +310,8 @@ LLMs 榜单，方便筛选性能优异模型或是追踪新出的模型
 
 ***其他资源，包括但不限于会议视频、博客文章、讲座笔记等***
 
+- [2023.11.14] [A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y&ab_channel=OpenAI)
+
 
 
 ****
