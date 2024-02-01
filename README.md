@@ -15,7 +15,7 @@
     - [Model](#model)
     - [CoT](#cot)
     - [Prompt Engineering](#prompt-engineering)
-    - [Retrieval Enhanced LLM](#retrieval-enhanced-llm)
+    - [Retrieval Augmented Generation](#retrieval-augmented-generation)
     - [Text Generation](#text-generation)
     - [Agents](#agents)
     - [Benchmark & Datasets](#benchmark--datasets)
@@ -198,6 +198,10 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 - **TruthfulQA**
 
     提出了基准来衡量语言模型在生成问题答案时是否真实。该基准包括 817 个问题，涵盖 38 个类别，包括健康、法律、金融和政治。我们精心设计了一些问题，有些人会因为错误的信念或误解而错误地回答这些问题。为了表现良好，模型必须避免产生通过模仿人类文本而获得的错误答案。
+
+- **BioASQ-QA**
+
+    BioASQ-QA：生物医学问答的手动整理语料库
 
 #### Multi-span Question Answering
 
