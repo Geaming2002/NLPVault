@@ -309,6 +309,10 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
     评估提供了一个框架，用于评估大型语言模型 （LLMs） 或使用 LLMs.我们提供了一个现有的评估注册表，用于测试不同维度的 OpenAI 模型，并能够为您关心的用例编写自己的自定义评估。您还可以使用您的数据来构建私有评估值，这些评估值表示工作流中的常见LLMs模式，而无需公开任何数据。
 
+- [**CRUD-RAG**](https://github.com/IAAR-Shanghai/CRUD_RAG/tree/main)
+
+    全面支持中文RAG Benchmark评测，包括原生的中文数据集、评测任务、主流基座测试；覆盖CRUD(增删改查)，即大模型信息新增能力、信息缩减能力、信息校正能力、信息查询问答能力全方位评测；总测试数据量达到36166个，为中文RAG测试最多；多个指标类型覆盖，包括 ROUGE, BLEU, bertScore, RAGQuestEval，一键评估；
+
 ## Tutorials & Guides
 
 ***NLP入门和高级教程***
