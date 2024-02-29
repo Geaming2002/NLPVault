@@ -134,6 +134,8 @@ Eg. √`ACL-2023` **Title** [paper] [code] .. [authors]
 
 - √`ACL-2021` **Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence** [[paper](https://arxiv.org/abs/2105.08963)][[code](https://github.com/thu-coai/HINT)][J Guan, X Mao, C Fan, Z Liu, W Ding, M Huang]
 
+- √`AAAI-2021` **Automated storytelling via causal, commonsense plot ordering** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16733)][[code](https://github.com/rajammanabrolu/C2PO)][P Ammanabrolu, W Cheung, W Broniec…]
+
 - √`CIKM-2020` **Creative Storytelling with Language Models and Knowledge Graphs** [[paper](http://ceur-ws.org/Vol-2699/paper07.pdf)][[code](https://github.com/ranyxr/dice_story)][X Yang, I Tiddi]
 
 - √`AAAI-2019` **Plan-and-write: Towards better automatic storytelling** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4726)][[code](https://bitbucket.org/VioletPeng/language-model)][L Yao, N Peng, R Weischedel, K Knight…]
