@@ -120,6 +120,19 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 
 - `ACL-2019` **Latent retrieval for weakly supervised open domain question answering** [[paper](https://arxiv.org/abs/1906.00300)][K Lee, MW Chang, K Toutanova][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
 
+### Safety, Security and Privacy
+
+推荐仓库：[**LM-SSP**](https://github.com/ThuCCSLab/lm-ssp)
+，SSP下结构与LM-SSP保持一致，只是不再区分小类。
+
+#### A. Safety
+
+- `ArXiv-2024` **DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers** [[paper](https://arxiv.org/abs/2402.16914)][[code](https://github.com/xirui-li/DrAttack)][X Li, R Wang, M Cheng, T Zhou, CJ Hsieh][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+#### B. Security
+
+#### C. Privacy
+
 ### Text Generation
 
 - `ACL-2023` **Doc: Improving long story coherence with detailed outline control** [[paper](https://arxiv.org/abs/2212.10077)][[code](https://github.com/yangkevin2/doc-story-generation)][K Yang, D Klein, N Peng, Y Tian][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
