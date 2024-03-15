@@ -175,6 +175,8 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 
 ### Others
 
+- `ArXiv-2023` **R-tuning: Teaching large language models to refuse unknown questions** [[paper](https://arxiv.org/abs/2311.09677)][[code](https://github.com/shizhediao/R-Tuning)][H Zhang, S Diao, Y Lin, YR Fung, Q Lian…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 - `ArXiv-2023` **Lost in the middle: How language models use long contexts** [[paper](https://arxiv.org/abs/2307.03172)][NF Liu, K Lin, J Hewitt, A Paranjape…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 
