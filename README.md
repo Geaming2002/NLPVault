@@ -131,6 +131,8 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 
 #### A. Safety
 
+- `NAACL-2024` **A Wolf in Sheep's Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily** [[paper](https://arxiv.org/abs/2311.08268)][[code](https://github.com/NJUNLP/ReNeLLM)][P Ding, J Kuang, D Ma, X Cao, Y Xian, J Chen…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 - `ArXiv-2024` **DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers** [[paper](https://arxiv.org/abs/2402.16914)][[code](https://github.com/xirui-li/DrAttack)][X Li, R Wang, M Cheng, T Zhou, CJ Hsieh][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `ArXiv-2023` **Universal and transferable adversarial attacks on aligned language models** [[paper](https://arxiv.org/abs/2307.15043)][[code](https://github.com/llm-attacks/llm-attacks)][A Zou, Z Wang, JZ Kolter, M Fredrikson][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
