@@ -76,7 +76,10 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 
 ### Data Construction
 
+- `ArXiv-2024` **Clustering and Ranking: Diversity-preserved Instruction Selection through Expert-aligned Quality Estimation** [[paper](https://arxiv.org/abs/2402.18191)][[code]()][Y Ge, Y Liu, C Hu, W Meng, S Tao, X Zhao…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 - `ArXiv-2023` **One shot learning as instruction data prospector for large language models** [[paper](https://arxiv.org/abs/2312.10302)][[code](https://github.com/pldlgb/nuggets)][Y Li, B Hui, X Xia, J Yang, M Yang, L Zhang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 
 ### CoT
 
