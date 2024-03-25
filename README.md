@@ -74,6 +74,10 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 
 - `ArXiv-2023` **A survey on long text modeling with transformers** [[paper](https://arxiv.org/abs/2302.14502)][Z Dong, T Tang, L Li, WX Zhao][![](https://img.shields.io/badge/Overviewed-366588)]()
 
+### Data Construction
+
+- `ArXiv-2023` **One shot learning as instruction data prospector for large language models** [[paper](https://arxiv.org/abs/2312.10302)][[code](https://github.com/pldlgb/nuggets)][Y Li, B Hui, X Xia, J Yang, M Yang, L Zhang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 ### CoT
 
 - `Arxiv-2023` **Chain-of-verification reduces hallucination in large language models** [[paper](https://arxiv.org/abs/2309.11495)][S Dhuliawala, M Komeili, J Xu, R Raileanu, X Li…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
