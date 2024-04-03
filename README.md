@@ -110,7 +110,7 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 
 ### Retrieval Augmented Generation
 
-- `ArXiv-2024` **Reliable, Adaptable, and Attributable Language Models with Retrieval** [[paper](https://arxiv.org/abs/2403.03187)][[code]()][A Asai, Z Zhong, D Chen, PW Koh…][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
+- `ArXiv-2024` **Reliable, Adaptable, and Attributable Language Models with Retrieval** [[paper](https://arxiv.org/abs/2403.03187)][[code]()][A Asai, Z Zhong, D Chen, PW Koh…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `CAIN-2024` **Seven Failure Points When Engineering a Retrieval Augmented Generation System** [[paper](https://arxiv.org/abs/2401.05856)][[code](https://figshare.com/s/fbf7805b5f20d7f7e356)][S Barnett, S Kurniawan, S Thudumu…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
