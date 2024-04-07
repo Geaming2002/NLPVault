@@ -114,7 +114,7 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 
 - `CAIN-2024` **Seven Failure Points When Engineering a Retrieval Augmented Generation System** [[paper](https://arxiv.org/abs/2401.05856)][[code](https://figshare.com/s/fbf7805b5f20d7f7e356)][S Barnett, S Kurniawan, S Thudumu…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
-- `ICLR-2023` **Copy is all you need** [[paper](https://arxiv.org/abs/2307.06962)][[code](https://github.com/gmftbyGMFTBY/Copyisallyouneed)][T Lan, D Cai, Y Wang, H Huang, XL Mao][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
+- `ICLR-2023` **Copy is all you need** [[paper](https://arxiv.org/abs/2307.06962)][[code](https://github.com/gmftbyGMFTBY/Copyisallyouneed)][T Lan, D Cai, Y Wang, H Huang, XL Mao][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `ArXiv-2023` **Learning to Filter Context for Retrieval-Augmented Generation** [[paper](https://arxiv.org/abs/2311.08377)][[code](https://github.com/zorazrw/filco)][Z Wang, J Araki, Z Jiang, MR Parvez…][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
 
