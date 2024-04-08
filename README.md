@@ -21,6 +21,7 @@
     - [A. Safety](#a-safety)
     - [B. Security](#b-security)
     - [C. Privacy](#c-privacy)
+  - [Self Reflection](#self-reflection)
   - [Text Generation](#text-generation)
   - [Agents](#agents)
   - [Benchmark \& Datasets](#benchmark--datasets)
@@ -49,6 +50,7 @@
 - [Resources](#resources)
 - [Projects](#projects)
 
+<!-- /TOC -->
 <!-- /TOC -->
 
 ****
@@ -166,6 +168,10 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 #### B. Security
 
 #### C. Privacy
+
+### Self Reflection
+
+- `EMNLP-2023` **Large language models can self-improve** [[paper](https://arxiv.org/abs/2210.11610)][J Huang, SS Gu, L Hou, Y Wu, X Wang, H Yu…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 ### Text Generation
 
