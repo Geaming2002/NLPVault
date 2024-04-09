@@ -173,7 +173,7 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 
 ### Self Reflection
 
-- `Neurips-2023` **Reflexion: Language agents with verbal reinforcement learning** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd888628510e90-Abstract-Conference.html)][[code](https://github.com/noahshinn/reflexion)][N Shinn, F Cassano, A Gopinath…][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
+- `Neurips-2023` **Reflexion: Language agents with verbal reinforcement learning** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd888628510e90-Abstract-Conference.html)][[code](https://github.com/noahshinn/reflexion)][N Shinn, F Cassano, A Gopinath…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `EMNLP-2023` **Large language models can self-improve** [[paper](https://arxiv.org/abs/2210.11610)][J Huang, SS Gu, L Hou, Y Wu, X Wang, H Yu…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
