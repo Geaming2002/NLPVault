@@ -84,6 +84,8 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 - `ICLR-2024` **What makes good data for alignment? a comprehensive study of automatic data selection in instruction tuning** [[paper](https://arxiv.org/abs/2312.15685)][[code]()][W Liu, W Zeng, K He, Y Jiang, J He][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
 
 - `ArXiv-2024` **Clustering and Ranking: Diversity-preserved Instruction Selection through Expert-aligned Quality Estimation** [[paper](https://arxiv.org/abs/2402.18191)][[code]()][Y Ge, Y Liu, C Hu, W Meng, S Tao, X Zhao…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+  
+- `ArXiv-2024` **Less: Selecting influential data for targeted instruction tuning** [[paper](https://arxiv.org/abs/2402.04333)][[code](https://github.com/princeton-nlp/LESS)][M Xia, S Malladi, S Gururangan, S Arora…][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
 
 - `NAACL-2023` **From quantity to quality: Boosting llm performance with self-guided data selection for instruction tuning** [[paper](https://arxiv.org/abs/2308.12032)][[code](https://github.com/tianyi-lab/Cherry_LLM)][M Li, Y Zhang, Z Li, J Chen, L Chen, N Cheng…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
