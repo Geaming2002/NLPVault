@@ -91,7 +91,7 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 
 - `ArXiv-2023` **One shot learning as instruction data prospector for large language models** [[paper](https://arxiv.org/abs/2312.10302)][[code](https://github.com/pldlgb/nuggets)][Y Li, B Hui, X Xia, J Yang, M Yang, L Zhang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
-- `ArXiv-2023` **Instruction mining: When data mining meets large language model finetuning** [[paper](https://arxiv.org/abs/2307.06290][[code]()][Y Cao, Y Kang, C Wang, L Sun][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
+- `ArXiv-2023` **Instruction mining: When data mining meets large language model finetuning** [[paper](https://arxiv.org/abs/2307.06290][[code]()][Y Cao, Y Kang, C Wang, L Sun][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `Neurips-2023` **Lima: Less is more for alignment** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/ac662d74829e4407ce1d126477f4a03a-Paper-Conference.pdf)][[code]()][C Zhou, P Liu, P Xu, S Iyer, J Sun…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
