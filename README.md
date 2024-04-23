@@ -81,7 +81,7 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 
 - `ICLR-2024` **Alpagasus: Training a better alpaca with fewer data** [[paper](https://arxiv.org/abs/2307.08701)][[code](https://github.com/Lichang-Chen/AlpaGasus)][L Chen, S Li, J Yan, H Wang, K Gunaratna…][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
 
-- `ICLR-2024` **What makes good data for alignment? a comprehensive study of automatic data selection in instruction tuning** [[paper](https://arxiv.org/abs/2312.15685)][[code]()][W Liu, W Zeng, K He, Y Jiang, J He][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
+- `ICLR-2024` **What makes good data for alignment? a comprehensive study of automatic data selection in instruction tuning** [[paper](https://arxiv.org/abs/2312.15685)][[code]()][W Liu, W Zeng, K He, Y Jiang, J He][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `ArXiv-2024` **Clustering and Ranking: Diversity-preserved Instruction Selection through Expert-aligned Quality Estimation** [[paper](https://arxiv.org/abs/2402.18191)][[code]()][Y Ge, Y Liu, C Hu, W Meng, S Tao, X Zhao…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
   
