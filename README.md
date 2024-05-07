@@ -14,6 +14,7 @@
 - [Papers](#papers)
   - [Model](#model)
   - [Data Construction](#data-construction)
+  - [Code Generation](#code-generation)
   - [CoT](#cot)
   - [Prompt Engineering](#prompt-engineering)
   - [Retrieval Augmented Generation](#retrieval-augmented-generation)
@@ -50,6 +51,7 @@
 - [Resources](#resources)
 - [Projects](#projects)
 
+<!-- /TOC -->
 <!-- /TOC -->
 <!-- /TOC -->
 
@@ -97,6 +99,9 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 
 - `ACL-2023` **Self-instruct: Aligning language models with self-generated instructions** [[paper](https://arxiv.org/abs/2212.10560)][[code](https://github.com/yizhongw/self-instruct)][Y Wang, Y Kordi, S Mishra, A Liu, NA Smith…][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
 
+### Code Generation
+
+- `Neurips-2023` **Crosscodeeval: A diverse and multilingual benchmark for cross-file code completion** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/920f2dced7d32ab2ba2f1970bc306af6-Abstract-Datasets_and_Benchmarks.html)][[code](https://crosscodeeval.github.io/)][Y Ding, Z Wang, W Ahmad, H Ding…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 ### CoT
 
