@@ -101,9 +101,11 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 
 ### Code Generation
 
-- `Neurips-2023` **Crosscodeeval: A diverse and multilingual benchmark for cross-file code completion** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/920f2dced7d32ab2ba2f1970bc306af6-Abstract-Datasets_and_Benchmarks.html)][[code](https://crosscodeeval.github.io/)][Y Ding, Z Wang, W Ahmad, H Ding…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
-
 - `ICLR-2024` **Swe-bench: Can language models resolve real-world github issues?** [[paper](https://arxiv.org/abs/2310.06770)][[code]()][CE Jimenez, J Yang, A Wettig, S Yao, K Pei…][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
+
+- `ICLR-2024` **Repobench: Benchmarking repository-level code auto-completion systems** [[paper](https://arxiv.org/abs/2306.03091)][[code]()][T Liu, C Xu, J McAuley][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
+
+- `Neurips-2023` **Crosscodeeval: A diverse and multilingual benchmark for cross-file code completion** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/920f2dced7d32ab2ba2f1970bc306af6-Abstract-Datasets_and_Benchmarks.html)][[code](https://crosscodeeval.github.io/)][Y Ding, Z Wang, W Ahmad, H Ding…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 ### CoT
 
