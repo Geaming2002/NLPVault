@@ -14,7 +14,8 @@
 - [Papers](#papers)
   - [Model](#model)
   - [Data Construction](#data-construction)
-  - [Code Generation](#code-generation)
+  - [Agent](#agent)
+  - [Code](#code)
   - [CoT](#cot)
   - [Prompt Engineering](#prompt-engineering)
   - [Retrieval Augmented Generation](#retrieval-augmented-generation)
@@ -51,6 +52,7 @@
 - [Resources](#resources)
 - [Projects](#projects)
 
+<!-- /TOC -->
 <!-- /TOC -->
 <!-- /TOC -->
 <!-- /TOC -->
@@ -101,7 +103,11 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 
 - `ACL-2023` **Self-instruct: Aligning language models with self-generated instructions** [[paper](https://arxiv.org/abs/2212.10560)][[code](https://github.com/yizhongw/self-instruct)][Y Wang, Y Kordi, S Mishra, A Liu, NA Smith…][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
 
-### Code Generation
+### Agent
+
+- `Arxiv-2024` **Swe-agent: Agent-computer interfaces enable automated software engineering** [[paper](https://arxiv.org/abs/2405.15793)][[code](https://princeton-nlp.github.io/SWE-agent/)][J Yang, CE Jimenez, A Wettig, K Lieret, S Yao…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+### Code
 
 - `ICLR-2024` **Swe-bench: Can language models resolve real-world github issues?** [[paper](https://arxiv.org/abs/2310.06770)][[code]()][CE Jimenez, J Yang, A Wettig, S Yao, K Pei…][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
 
