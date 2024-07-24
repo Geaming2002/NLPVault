@@ -109,6 +109,8 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 
 ### Code
 
+- `Arxiv-2024` **Opencodeinterpreter: Integrating code generation with execution and refinement** [[paper](https://arxiv.org/abs/2402.14658)][[code](https://opencodeinterpreter.github.io/)][T Zheng, G Zhang, T Shen, X Liu, BY Lin, J Fu…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 - `ICLR-2024` **Swe-bench: Can language models resolve real-world github issues?** [[paper](https://arxiv.org/abs/2310.06770)][[code]()][CE Jimenez, J Yang, A Wettig, S Yao, K Pei…][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
 
 - `ICLR-2024` **Repobench: Benchmarking repository-level code auto-completion systems** [[paper](https://arxiv.org/abs/2306.03091)][[code]()][T Liu, C Xu, J McAuley][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
