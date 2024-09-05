@@ -12,49 +12,45 @@
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
 - [Papers](#papers)
-  - [Model](#model)
-  - [Data Construction](#data-construction)
-  - [Agent](#agent)
-  - [Code](#code)
-  - [CoT](#cot)
-  - [Prompt Engineering](#prompt-engineering)
-  - [Retrieval Augmented Generation](#retrieval-augmented-generation)
-  - [Safety, Security and Privacy](#safety-security-and-privacy)
-    - [A. Safety](#a-safety)
-    - [B. Security](#b-security)
-    - [C. Privacy](#c-privacy)
-  - [Self Reflection](#self-reflection)
-  - [Text Generation](#text-generation)
-  - [Agents](#agents)
-  - [Benchmark \& Datasets](#benchmark--datasets)
-  - [Others](#others)
+    - [Agent](#agent)
+    - [Benchmark](#benchmark)
+    - [Code](#code)
+    - [CoT](#cot)
+    - [Data Construction](#data-construction)
+    - [Model](#model)
+    - [Others](#others)
+    - [Prompt Engineering](#prompt-engineering)
+    - [Retrieval Augmented Generation](#retrieval-augmented-generation)
+    - [Safety, Security and Privacy](#safety-security-and-privacy)
+        - [A. Safety](#a-safety)
+        - [B. Security](#b-security)
+        - [C. Privacy](#c-privacy)
+    - [Self Reflection](#self-reflection)
+    - [Text Generation](#text-generation)
 - [Models](#models)
 - [Datasets](#datasets)
-  - [Text Classificaton](#text-classificaton)
-  - [Sequence Labeling](#sequence-labeling)
-  - [Machine Translation](#machine-translation)
-  - [Question Answering](#question-answering)
-    - [Multiple-Choice Question Answering](#multiple-choice-question-answering)
-    - [Open-Domain Question Answering](#open-domain-question-answering)
-    - [Multi-span Question Answering](#multi-span-question-answering)
-    - [Factoid Question Answering](#factoid-question-answering)
-  - [Text Summarization](#text-summarization)
-  - [Text Generation](#text-generation-1)
+    - [Text Classificaton](#text-classificaton)
+    - [Sequence Labeling](#sequence-labeling)
+    - [Machine Translation](#machine-translation)
+    - [Question Answering](#question-answering)
+        - [Multiple-Choice Question Answering](#multiple-choice-question-answering)
+        - [Open-Domain Question Answering](#open-domain-question-answering)
+        - [Multi-span Question Answering](#multi-span-question-answering)
+        - [Factoid Question Answering](#factoid-question-answering)
+    - [Text Summarization](#text-summarization)
+    - [Text Generation](#text-generation)
 - [Metrics and Benchmarks](#metrics-and-benchmarks)
-  - [Metircs](#metircs)
-  - [Benchmarks](#benchmarks)
-- [Tools \& Libraries](#tools--libraries)
-  - [Labeling Tools](#labeling-tools)
-  - [Python Package](#python-package)
-  - [Others](#others-1)
-- [Tutorials \& Guides](#tutorials--guides)
-  - [Leaderboards](#leaderboards)
+    - [Metircs](#metircs)
+    - [Benchmarks](#benchmarks)
+- [Tools & Libraries](#tools--libraries)
+    - [Labeling Tools](#labeling-tools)
+    - [Python Package](#python-package)
+    - [Others](#others)
+- [Tutorials & Guides](#tutorials--guides)
+    - [Leaderboards](#leaderboards)
 - [Resources](#resources)
 - [Projects](#projects)
 
-<!-- /TOC -->
-<!-- /TOC -->
-<!-- /TOC -->
 <!-- /TOC -->
 
 ****
@@ -75,11 +71,38 @@
 
 Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
 
-### Model
+### Agent
 
-- `ArXiv-2023` **Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey** [[paper](https://arxiv.org/abs/2311.12351)][[code](https://github.com/Strivin0311/long-llms-learning)][Y Huang, J Xu, Z Jiang, J Lai…][![](https://img.shields.io/badge/Overviewed-366588)]()
+- `Arxiv-2024` **Swe-agent: Agent-computer interfaces enable automated software engineering** [[paper](https://arxiv.org/abs/2405.15793)][[code](https://princeton-nlp.github.io/SWE-agent/)][J Yang, CE Jimenez, A Wettig, K Lieret, S Yao…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+### Benchmark
 
-- `ArXiv-2023` **A survey on long text modeling with transformers** [[paper](https://arxiv.org/abs/2302.14502)][Z Dong, T Tang, L Li, WX Zhao][![](https://img.shields.io/badge/Overviewed-366588)]()
+- `ACL-2023` **WikiHowQA: A Comprehensive Benchmark for Multi-Document Non-Factoid Question Answering** [[paper](https://aclanthology.org/2023.acl-long.290/)][[code](https://lurunchik.github.io/WikiHowNFQA/)][V Bolotova-Baranova, V Blinov…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+- `TACL-2022` **LOT: A story-centric benchmark for evaluating Chinese long text understanding and generation** [[paper](https://direct.mit.edu/tacl/article-abstract/doi/10.1162/tacl_a_00469/110537)][[code](https://github.com/thu-coai/LOT-LongLM)][J Guan, Z Feng, Y Chen, R He, X Mao, C Fan…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+- `ACL-2022` **TruthfulQA: Measuring how models mimic human falsehoods** [[paper](https://arxiv.org/abs/2109.07958)][[code](https://github.com/sylinrl/TruthfulQA)][S Lin, J Hilton, O Evans][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+### Code
+
+- `Arxiv-2024` **Opencodeinterpreter: Integrating code generation with execution and refinement** [[paper](https://arxiv.org/abs/2402.14658)][[code](https://opencodeinterpreter.github.io/)][T Zheng, G Zhang, T Shen, X Liu, BY Lin, J Fu…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+- `ICLR-2024` **Swe-bench: Can language models resolve real-world github issues?** [[paper](https://arxiv.org/abs/2310.06770)][[code]()][CE Jimenez, J Yang, A Wettig, S Yao, K Pei…][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
+
+- `ICLR-2024` **Repobench: Benchmarking repository-level code auto-completion systems** [[paper](https://arxiv.org/abs/2306.03091)][[code]()][T Liu, C Xu, J McAuley][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
+
+- `Neurips-2023` **Crosscodeeval: A diverse and multilingual benchmark for cross-file code completion** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/920f2dced7d32ab2ba2f1970bc306af6-Abstract-Datasets_and_Benchmarks.html)][[code](https://crosscodeeval.github.io/)][Y Ding, Z Wang, W Ahmad, H Ding…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+### CoT
+
+- `Arxiv-2023` **Chain-of-verification reduces hallucination in large language models** [[paper](https://arxiv.org/abs/2309.11495)][S Dhuliawala, M Komeili, J Xu, R Raileanu, X Li…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+- `ACL-2023 findings` **Towards reasoning in large language models: A survey** [[paper](https://arxiv.org/abs/2212.10403)][[code](https://github.com/jeffhj/LM-reasoning)][J Huang, KCC Chang][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
+
+- `ACL-2023` **Interleaving retrieval with chain-of-thought reasoning for knowledge-intensive multi-step questions** [[paper](https://arxiv.org/abs/2212.10509)][[code](https://github.com/stonybrooknlp/ircot)][H Trivedi, N Balasubramanian, T Khot…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+- `ICLR-2023` **Automatic chain of thought prompting in large language models** [[paper](https://arxiv.org/abs/2210.03493)][[code](https://github.com/amazon-science/auto-cot)][Z Zhang, A Zhang, M Li, A Smola][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+- `NeurIPS-2022` **Chain-of-thought prompting elicits reasoning in large language models** [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html)][J Wei, X Wang, D Schuurmans…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 ### Data Construction
 
@@ -103,31 +126,19 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 
 - `ACL-2023` **Self-instruct: Aligning language models with self-generated instructions** [[paper](https://arxiv.org/abs/2212.10560)][[code](https://github.com/yizhongw/self-instruct)][Y Wang, Y Kordi, S Mishra, A Liu, NA Smith…][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
 
-### Agent
 
-- `Arxiv-2024` **Swe-agent: Agent-computer interfaces enable automated software engineering** [[paper](https://arxiv.org/abs/2405.15793)][[code](https://princeton-nlp.github.io/SWE-agent/)][J Yang, CE Jimenez, A Wettig, K Lieret, S Yao…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
-### Code
+### Model
 
-- `Arxiv-2024` **Opencodeinterpreter: Integrating code generation with execution and refinement** [[paper](https://arxiv.org/abs/2402.14658)][[code](https://opencodeinterpreter.github.io/)][T Zheng, G Zhang, T Shen, X Liu, BY Lin, J Fu…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+- `ArXiv-2023` **Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey** [[paper](https://arxiv.org/abs/2311.12351)][[code](https://github.com/Strivin0311/long-llms-learning)][Y Huang, J Xu, Z Jiang, J Lai…][![](https://img.shields.io/badge/Overviewed-366588)]()
 
-- `ICLR-2024` **Swe-bench: Can language models resolve real-world github issues?** [[paper](https://arxiv.org/abs/2310.06770)][[code]()][CE Jimenez, J Yang, A Wettig, S Yao, K Pei…][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
+- `ArXiv-2023` **A survey on long text modeling with transformers** [[paper](https://arxiv.org/abs/2302.14502)][Z Dong, T Tang, L Li, WX Zhao][![](https://img.shields.io/badge/Overviewed-366588)]()
+### Others
 
-- `ICLR-2024` **Repobench: Benchmarking repository-level code auto-completion systems** [[paper](https://arxiv.org/abs/2306.03091)][[code]()][T Liu, C Xu, J McAuley][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
+- `ArXiv-2023` **R-tuning: Teaching large language models to refuse unknown questions** [[paper](https://arxiv.org/abs/2311.09677)][[code](https://github.com/shizhediao/R-Tuning)][H Zhang, S Diao, Y Lin, YR Fung, Q Lian…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
-- `Neurips-2023` **Crosscodeeval: A diverse and multilingual benchmark for cross-file code completion** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/920f2dced7d32ab2ba2f1970bc306af6-Abstract-Datasets_and_Benchmarks.html)][[code](https://crosscodeeval.github.io/)][Y Ding, Z Wang, W Ahmad, H Ding…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+- `ArXiv-2023` **Lost in the middle: How language models use long contexts** [[paper](https://arxiv.org/abs/2307.03172)][NF Liu, K Lin, J Hewitt, A Paranjape…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
-### CoT
-
-- `Arxiv-2023` **Chain-of-verification reduces hallucination in large language models** [[paper](https://arxiv.org/abs/2309.11495)][S Dhuliawala, M Komeili, J Xu, R Raileanu, X Li…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
-
-- `ACL-2023 findings` **Towards reasoning in large language models: A survey** [[paper](https://arxiv.org/abs/2212.10403)][[code](https://github.com/jeffhj/LM-reasoning)][J Huang, KCC Chang][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
-
-- `ACL-2023` **Interleaving retrieval with chain-of-thought reasoning for knowledge-intensive multi-step questions** [[paper](https://arxiv.org/abs/2212.10509)][[code](https://github.com/stonybrooknlp/ircot)][H Trivedi, N Balasubramanian, T Khot…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
-
-- `ICLR-2023` **Automatic chain of thought prompting in large language models** [[paper](https://arxiv.org/abs/2210.03493)][[code](https://github.com/amazon-science/auto-cot)][Z Zhang, A Zhang, M Li, A Smola][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
-
-- `NeurIPS-2022` **Chain-of-thought prompting elicits reasoning in large language models** [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html)][J Wei, X Wang, D Schuurmans…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 ### Prompt Engineering
 
@@ -219,23 +230,6 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors][![](https://img.shields.io/
 - `CIKM-2020` **Creative Storytelling with Language Models and Knowledge Graphs** [[paper](http://ceur-ws.org/Vol-2699/paper07.pdf)][[code](https://github.com/ranyxr/dice_story)][X Yang, I Tiddi][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `AAAI-2019` **Plan-and-write: Towards better automatic storytelling** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4726)][[code](https://bitbucket.org/VioletPeng/language-model)][L Yao, N Peng, R Weischedel, K Knight…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
-
-### Agents
-
-### Benchmark & Datasets
-
-- `ACL-2023` **WikiHowQA: A Comprehensive Benchmark for Multi-Document Non-Factoid Question Answering** [[paper](https://aclanthology.org/2023.acl-long.290/)][[code](https://lurunchik.github.io/WikiHowNFQA/)][V Bolotova-Baranova, V Blinov…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
-
-- `TACL-2022` **LOT: A story-centric benchmark for evaluating Chinese long text understanding and generation** [[paper](https://direct.mit.edu/tacl/article-abstract/doi/10.1162/tacl_a_00469/110537)][[code](https://github.com/thu-coai/LOT-LongLM)][J Guan, Z Feng, Y Chen, R He, X Mao, C Fan…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
-
-- `ACL-2022` **TruthfulQA: Measuring how models mimic human falsehoods** [[paper](https://arxiv.org/abs/2109.07958)][[code](https://github.com/sylinrl/TruthfulQA)][S Lin, J Hilton, O Evans][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
-
-### Others
-
-- `ArXiv-2023` **R-tuning: Teaching large language models to refuse unknown questions** [[paper](https://arxiv.org/abs/2311.09677)][[code](https://github.com/shizhediao/R-Tuning)][H Zhang, S Diao, Y Lin, YR Fung, Q Lian…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
-
-- `ArXiv-2023` **Lost in the middle: How language models use long contexts** [[paper](https://arxiv.org/abs/2307.03172)][NF Liu, K Lin, J Hewitt, A Paranjape…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
-
 
 ****
 ## Models
