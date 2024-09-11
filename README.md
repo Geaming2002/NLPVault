@@ -16,6 +16,7 @@
     - [Code](#code)
     - [CoT](#cot)
     - [Data Construction](#data-construction)
+    - [In Context Learning](#in-context-learning)
     - [Interpretability](#interpretability)
     - [Model](#model)
     - [Others](#others)
@@ -130,6 +131,10 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 - `Neurips-2023` **Lima: Less is more for alignment** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/ac662d74829e4407ce1d126477f4a03a-Paper-Conference.pdf)][[code]()][C Zhou, P Liu, P Xu, S Iyer, J Sun…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `ACL-2023` **Self-instruct: Aligning language models with self-generated instructions** [[paper](https://arXiv.org/abs/2212.10560)][[code](https://github.com/yizhongw/self-instruct)][Y Wang, Y Kordi, S Mishra, A Liu, NA Smith…][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
+
+### In Context Learning
+
+- `arXiv-2024` **Many-shot in-context learning** [[paper](https://arxiv.org/abs/2404.11018)][R Agarwal, A Singh, LM Zhang, B Bohnet…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 ### Interpretability
 
