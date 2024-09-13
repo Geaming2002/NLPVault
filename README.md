@@ -82,6 +82,8 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 ### Benchmark
 
+- `arXiv-2023` **Instruction-following evaluation for large language models** [[paper](https://arxiv.org/abs/2311.07911)][[code](https://github.com/google-research/google-research/tree/master/instruction_following_eval)][J Zhou, T Lu, S Mishra, S Brahma, S Basu…]
+
 - `ACL-2023` **WikiHowQA: A Comprehensive Benchmark for Multi-Document Non-Factoid Question Answering** [[paper](https://aclanthology.org/2023.acl-long.290/)][[code](https://lurunchik.github.io/WikiHowNFQA/)][V Bolotova-Baranova, V Blinov…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `TACL-2022` **LOT: A story-centric benchmark for evaluating Chinese long text understanding and generation** [[paper](https://direct.mit.edu/tacl/article-abstract/doi/10.1162/tacl_a_00469/110537)][[code](https://github.com/thu-coai/LOT-LongLM)][J Guan, Z Feng, Y Chen, R He, X Mao, C Fan…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
