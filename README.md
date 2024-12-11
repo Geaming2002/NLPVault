@@ -7,54 +7,49 @@
 
 ---
 
-<!-- TOC -->
-
 - [Introduction](#introduction)
 - [Papers](#papers)
-    - [Agent](#agent)
-    - [Benchmark](#benchmark)
-    - [Code](#code)
-    - [CoT](#cot)
-    - [Data Construction](#data-construction)
-    - [In Context Learning](#in-context-learning)
-    - [Interpretability](#interpretability)
-    - [Model](#model)
-    - [Others](#others)
-    - [Prompt Engineering](#prompt-engineering)
-    - [Retrieval Augmented Generation](#retrieval-augmented-generation)
-    - [Safety, Security and Privacy](#safety-security-and-privacy)
-        - [A. Safety](#a-safety)
-        - [B. Security](#b-security)
-        - [C. Privacy](#c-privacy)
-    - [Self Reflection](#self-reflection)
-    - [Text Generation](#text-generation)
+  - [Agent](#agent)
+  - [Benchmark](#benchmark)
+  - [Code](#code)
+  - [CoT](#cot)
+  - [Data Construction](#data-construction)
+  - [Data Leakage](#data-leakage)
+  - [In Context Learning](#in-context-learning)
+  - [Interpretability](#interpretability)
+  - [Model](#model)
+  - [Others](#others)
+  - [Prompt Engineering](#prompt-engineering)
+  - [Retrieval Augmented Generation](#retrieval-augmented-generation)
+  - [Safety, Security and Privacy](#safety-security-and-privacy)
+    - [A. Safety](#a-safety)
+    - [B. Security](#b-security)
+    - [C. Privacy](#c-privacy)
+  - [Self Reflection](#self-reflection)
+  - [Text Generation](#text-generation)
 - [Models](#models)
 - [Datasets](#datasets)
-    - [Text Classificaton](#text-classificaton)
-    - [Sequence Labeling](#sequence-labeling)
-    - [Machine Translation](#machine-translation)
-    - [Question Answering](#question-answering)
-        - [Multiple-Choice Question Answering](#multiple-choice-question-answering)
-        - [Open-Domain Question Answering](#open-domain-question-answering)
-        - [Multi-span Question Answering](#multi-span-question-answering)
-        - [Factoid Question Answering](#factoid-question-answering)
-    - [Text Summarization](#text-summarization)
-    - [Text Generation](#text-generation)
+  - [Text Classificaton](#text-classificaton)
+  - [Sequence Labeling](#sequence-labeling)
+  - [Machine Translation](#machine-translation)
+  - [Question Answering](#question-answering)
+    - [Multiple-Choice Question Answering](#multiple-choice-question-answering)
+    - [Open-Domain Question Answering](#open-domain-question-answering)
+    - [Multi-span Question Answering](#multi-span-question-answering)
+    - [Factoid Question Answering](#factoid-question-answering)
+  - [Text Summarization](#text-summarization)
+  - [Text Generation](#text-generation-1)
 - [Metrics and Benchmarks](#metrics-and-benchmarks)
-    - [Metircs](#metircs)
-    - [Benchmarks](#benchmarks)
-- [Tools & Libraries](#tools--libraries)
-    - [Labeling Tools](#labeling-tools)
-    - [Python Package](#python-package)
-    - [Others](#others)
-- [Tutorials & Guides](#tutorials--guides)
-    - [Leaderboards](#leaderboards)
+  - [Metircs](#metircs)
+  - [Benchmarks](#benchmarks)
+- [Tools \& Libraries](#tools--libraries)
+  - [Labeling Tools](#labeling-tools)
+  - [Python Package](#python-package)
+  - [Others](#others-1)
+- [Tutorials \& Guides](#tutorials--guides)
+  - [Leaderboards](#leaderboards)
 - [Resources](#resources)
 - [Projects](#projects)
-
-<!-- /TOC -->
-
-<!-- /TOC -->
 
 ---
 
@@ -133,6 +128,11 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 - `Neurips-2023` **Lima: Less is more for alignment** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/ac662d74829e4407ce1d126477f4a03a-Paper-Conference.pdf)][[code]()][C Zhou, P Liu, P Xu, S Iyer, J Sun…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `ACL-2023` **Self-instruct: Aligning language models with self-generated instructions** [[paper](https://arXiv.org/abs/2212.10560)][[code](https://github.com/yizhongw/self-instruct)][Y Wang, Y Kordi, S Mishra, A Liu, NA Smith…][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
+
+### Data Leakage
+
+- `EMNLP-2024` **Pretraining Data Detection for Large Language Models: A Divergence-based Calibration Method** [[paper](https://arxiv.org/abs/2409.14781)][[code](https://github.com/zhang-wei-chao/DC-PDD )][W Zhang, R Zhang, J Guo, M de Rijke, Y Fan…]
+
 
 ### In Context Learning
 
