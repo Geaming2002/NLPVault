@@ -87,6 +87,8 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 ### Code
 
+- `ASE-2024` **On the Evaluation of Large Language Models in Unit Test Generation** [[paper](https://dl.acm.org/doi/abs/10.1145/3691620.3695529)][L Yang, C Yang, S Gao, W Wang, B Wang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 - `arXiv-2024` **Opencodeinterpreter: Integrating code generation with execution and refinement** [[paper](https://arXiv.org/abs/2402.14658)][[code](https://opencodeinterpreter.github.io/)][T Zheng, G Zhang, T Shen, X Liu, BY Lin, J Fu…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `ICLR-2024` **Swe-bench: Can language models resolve real-world github issues?** [[paper](https://arXiv.org/abs/2310.06770)][[code]()][CE Jimenez, J Yang, A Wettig, S Yao, K Pei…][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
