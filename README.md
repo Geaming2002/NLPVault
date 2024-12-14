@@ -19,6 +19,7 @@
   - [Interpretability](#interpretability)
   - [Model](#model)
   - [Others](#others)
+  - [Post-training](#post-training)
   - [Prompt Engineering](#prompt-engineering)
   - [Retrieval Augmented Generation](#retrieval-augmented-generation)
   - [Safety, Security and Privacy](#safety-security-and-privacy)
@@ -156,6 +157,10 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 - `arXiv-2023` **R-tuning: Teaching large language models to refuse unknown questions** [[paper](https://arXiv.org/abs/2311.09677)][[code](https://github.com/shizhediao/R-Tuning)][H Zhang, S Diao, Y Lin, YR Fung, Q Lian…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `arXiv-2023` **Lost in the middle: How language models use long contexts** [[paper](https://arXiv.org/abs/2307.03172)][NF Liu, K Lin, J Hewitt, A Paranjape…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+### Post-training
+
+- `EMNLP-2021` **Raise a child in large language model: Towards effective and generalizable fine-tuning** [[paper](https://arxiv.org/abs/2109.05687)][R Xu, F Luo, Z Zhang, C Tan, B Chang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 ### Prompt Engineering
 
