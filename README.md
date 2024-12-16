@@ -88,6 +88,9 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 ### Code
 
+- `FSE-2024` **No more manual tests? evaluating and improving chatgpt for unit test generation** [[paper](https://arxiv.org/abs/2305.04207)][[code](https://github.com/FudanSELab/ChatTester/tree/main)][Z Yuan, Y Lou, M Liu, S Ding, K Wang, Y Chen…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+
 - `FSE-2024` **On the Evaluation of Large Language Models in Unit Test Generation** [[paper](https://dl.acm.org/doi/abs/10.1145/3691620.3695529)][[code](https://github.com/ZJU-ACES-ISE/ChatUniTest)][L Yang, C Yang, S Gao, W Wang, B Wang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `ASE-2024` **On the Evaluation of Large Language Models in Unit Test Generation** [[paper](https://dl.acm.org/doi/abs/10.1145/3691620.3695529)][L Yang, C Yang, S Gao, W Wang, B Wang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
