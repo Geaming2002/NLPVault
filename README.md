@@ -89,6 +89,8 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 ### Code
 
+- `axXiv-2024` **Evaluating and aligning codellms on human preference** [[paper](https://arxiv.org/abs/2412.05210)][[code]()][J Yang, J Yang, K Jin, Y Miao, L Zhang, L Yang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 - `arXiv-2024` **ExecRepoBench: Multi-level Executable Code Completion Evaluation** [[paper](https://arxiv.org/abs/2412.11990)][[code](https://execrepobench.github.io/)][J Yang, J Zhang, J Yang, K Jin, L Zhang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `FSE-2024` **No more manual tests? evaluating and improving chatgpt for unit test generation** [[paper](https://arxiv.org/abs/2305.04207)][[code](https://github.com/FudanSELab/ChatTester/tree/main)][Z Yuan, Y Lou, M Liu, S Ding, K Wang, Y Chen…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
