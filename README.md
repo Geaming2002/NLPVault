@@ -153,6 +153,8 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 ### Interpretability
 
+- `arXiv-2024` **Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models** [[paper](https://arxiv.org/abs/2411.14257)][J Ferrando, O Obeso, S Rajamanoharan…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 - `arXiv-2024` **Scaling and evaluating sparse autoencoders** [[paper](https://arxiv.org/abs/2406.04093)][[code](https://github.com/openai/sparse_autoencoder)][L Gao, TD la Tour, H Tillman, G Goh, R Troll…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 ### Model
