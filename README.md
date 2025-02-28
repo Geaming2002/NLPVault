@@ -21,6 +21,7 @@
   - [Others](#others)
   - [Post-training](#post-training)
   - [Prompt Engineering](#prompt-engineering)
+  - [Reforcement Learning](#reforcement-learning)
   - [Retrieval Augmented Generation](#retrieval-augmented-generation)
   - [Safety, Security and Privacy](#safety-security-and-privacy)
     - [A. Safety](#a-safety)
@@ -176,6 +177,10 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 ### Prompt Engineering
 
 - `arXiv-2023` **Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4** [[paper](https://arXiv.org/abs/2312.16171)][[code](https://github.com/VILA-Lab/ATLAS)][S Bsharat, A Myrzakhan, Z Shen][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
+
+### Reforcement Learning
+
+- `arXiv-2025` **Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning** [[paper](https://arxiv.org/abs/2501.12948)][[code]()][D Guo, D Yang, H Zhang, J Song, R Zhang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 ### Retrieval Augmented Generation
 
