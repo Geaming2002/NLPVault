@@ -21,6 +21,7 @@
   - [Others](#others)
   - [Post-training](#post-training)
   - [Prompt Engineering](#prompt-engineering)
+  - [Reasoning LLMs](#reasoning-llms)
   - [Reforcement Learning](#reforcement-learning)
   - [Retrieval Augmented Generation](#retrieval-augmented-generation)
   - [Safety, Security and Privacy](#safety-security-and-privacy)
@@ -177,6 +178,11 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 ### Prompt Engineering
 
 - `arXiv-2023` **Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4** [[paper](https://arXiv.org/abs/2312.16171)][[code](https://github.com/VILA-Lab/ATLAS)][S Bsharat, A Myrzakhan, Z Shen][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
+
+### Reasoning LLMs
+
+- `arXiv-2025` **From System 1 to System 2: A Survey of Reasoning Large Language Models** [[paper](https://arxiv.org/abs/2502.17419)][[code](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)][ZZ Li, D Zhang, ML Zhang, J Zhang, Z Liu…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 
 ### Reforcement Learning
 
