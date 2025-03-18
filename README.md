@@ -123,6 +123,8 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 - `NeurIPS-2022` **Chain-of-thought prompting elicits reasoning in large language models** [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html)][J Wei, X Wang, D Schuurmans…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
+- `arXiv-2025` **O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning** [[paper](https://arxiv.org/abs/2501.12570)][[code](https://github.com/StarDewXXX/O1-Pruner)][H Luo, L Shen, H He, Y Wang, S Liu, W Li…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 ### Data Construction
 
 - `ACL-2024` **Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning** [[paper](https://arXiv.org/abs/2402.13669)][[code](https://github.com/sail-sg/sdft)][Z Yang, Q Liu, T Pang, H Wang, H Feng, M Zhu…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
