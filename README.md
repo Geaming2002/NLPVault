@@ -125,6 +125,9 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 - `arXiv-2025` **O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning** [[paper](https://arxiv.org/abs/2501.12570)][[code](https://github.com/StarDewXXX/O1-Pruner)][H Luo, L Shen, H He, Y Wang, S Liu, W Li…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
+- `arXiv-2025` **CoT-Valve: Length-Compressible Chain-of-Thought Tuning** [[paper](https://arxiv.org/abs/2502.09601)][X Ma, G Wan, R Yu, G Fang, X Wang][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+
 ### Data Construction
 
 - `ACL-2024` **Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning** [[paper](https://arXiv.org/abs/2402.13669)][[code](https://github.com/sail-sg/sdft)][Z Yang, Q Liu, T Pang, H Wang, H Feng, M Zhu…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
