@@ -127,6 +127,8 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 - `arXiv-2025` **CoT-Valve: Length-Compressible Chain-of-Thought Tuning** [[paper](https://arxiv.org/abs/2502.09601)][X Ma, G Wan, R Yu, G Fang, X Wang][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
+- `arXiv-2025` **Self-Training Elicits Concise Reasoning in Large Language Models** [[paper](https://arxiv.org/abs/2502.20122)][[code](https://github.com/TergelMunkhbat/concise-reasoning?tab=readme-ov-file)][T Munkhbat, N Ho, S Kim, Y Yang, Y Kim…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 
 ### Data Construction
 
