@@ -262,6 +262,9 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 - `arXiv-2024` **Phi-4 Technical Report** [[paper](https://arxiv.org/abs/2412.08905)][[code]()][M Abdin, J Aneja, H Behl, S Bubeck, R Eldan…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
+- `arXiv-2025` **Kimi k1. 5: Scaling reinforcement learning with llms** [[paper](https://arxiv.org/abs/2501.12599)][K Team, A Du, B Gao, B Xing, C Jiang, C Chen…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+
 ### Text Generation
 
 - `ACL-2023` **Doc: Improving long story coherence with detailed outline control** [[paper](https://arXiv.org/abs/2212.10077)][[code](https://github.com/yangkevin2/doc-story-generation)][K Yang, D Klein, N Peng, Y Tian][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
