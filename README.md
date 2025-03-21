@@ -13,6 +13,7 @@
   - [Benchmark](#benchmark)
   - [Code](#code)
   - [CoT](#cot)
+    - [Long2short](#long2short)
   - [Data Construction](#data-construction)
   - [Data Leakage](#data-leakage)
   - [In Context Learning](#in-context-learning)
@@ -121,7 +122,7 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 - `ICLR-2023` **Automatic chain of thought prompting in large language models** [[paper](https://arXiv.org/abs/2210.03493)][[code](https://github.com/amazon-science/auto-cot)][Z Zhang, A Zhang, M Li, A Smola][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
-- `NeurIPS-2022` **Chain-of-thought prompting elicits reasoning in large language models** [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html)][J Wei, X Wang, D Schuurmans…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+#### Long2short
 
 - `arXiv-2025` **O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning** [[paper](https://arxiv.org/abs/2501.12570)][[code](https://github.com/StarDewXXX/O1-Pruner)][H Luo, L Shen, H He, Y Wang, S Liu, W Li…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
@@ -129,6 +130,22 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 - `arXiv-2025` **Self-Training Elicits Concise Reasoning in Large Language Models** [[paper](https://arxiv.org/abs/2502.20122)][[code](https://github.com/TergelMunkhbat/concise-reasoning?tab=readme-ov-file)][T Munkhbat, N Ho, S Kim, Y Yang, Y Kim…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
+- `arXiv-2025` **Tokenskip: Controllable chain-of-thought compression in llms** [[paper](https://arxiv.org/abs/2502.12067)][[code](https://github.com/hemingkx/TokenSkip)][H Xia, Y Li, CT Leong, W Wang, W Li][![](https://img.shields.io/badge/Overviewed-366588)]()
+
+- `arXiv-2025` **How Well do LLMs Compress Their Own Chain-of-Thought? A Token Complexity Approach** [[paper](https://arxiv.org/abs/2503.01141)][[code](https://github.com/Compressed-CoT/compressed-cot)][A Lee, E Che, T Peng][![](https://img.shields.io/badge/Overviewed-366588)]()
+
+- `arXiv-2025` **Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching** [[paper](https://arxiv.org/abs/2503.05179)][[code](https://github.com/SimonAytes/SoT)][SA Aytes, J Baek, SJ Hwang][![](https://img.shields.io/badge/Overviewed-366588)]()
+
+- `arXiv-2025` **Chain of Draft: Thinking Faster by Writing Less** [[paper](https://arxiv.org/abs/2502.18600)][[code](https://github.com/SimonAytes/SoT)][S Xu, W Xie, L Zhao, P He][![](https://img.shields.io/badge/Overviewed-366588)]()
+
+- `arXiv-2025` **Stepwise perplexity-guided refinement for efficient chain-of-thought reasoning in large language models** [[paper](https://arxiv.org/abs/2502.13260)][Y Cui, P He, J Zeng, H Liu, X Tang, Z Dai, Y Han…][![](https://img.shields.io/badge/Overviewed-366588)]()
+
+- `arxiv-2025` **Meta-Reasoner: Dynamic Guidance for Optimized Inference-time Reasoning in Large Language Models** [[paper](https://arxiv.org/abs/2502.19918)][[code]()][Y Sui, Y He, T Cao, S Han, B Hooi][![](https://img.shields.io/badge/Overviewed-366588)]()
+
+- `arXiv-2024` **Token-budget-aware llm reasoning** [[paper](https://arxiv.org/abs/2412.18547)][[code](https://github.com/GeniusHTX/TALE)][T Han, Z Wang, C Fang, S Zhao, S Ma…][![](https://img.shields.io/badge/Overviewed-366588)]()
+
+
+- `NeurIPS-2022` **Chain-of-thought prompting elicits reasoning in large language models** [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html)][J Wei, X Wang, D Schuurmans…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 ### Data Construction
 
