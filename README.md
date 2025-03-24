@@ -124,6 +124,13 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 #### Long2short
 
+- `arXiv-2025` **Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning** [[paper](https://arxiv.org/abs/2502.03275)][DJ Su, H Zhu, Y Xu, J Jiao, Y Tian, Q Zheng][![](https://img.shields.io/badge/Overviewed-366588)]()
+
+
+- `arXiv-2025` **CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation** [[paper](https://arxiv.org/abs/2502.21074)][Z Shen, H Yan, L Zhang, Z Hu, Y Du, Y He][![](https://img.shields.io/badge/Overviewed-366588)]()
+
+- `arXiv-2025` **When More is Less: Understanding Chain-of-Thought Length in LLMs** [[paper](https://arxiv.org/abs/2502.07266)][Y Wu, Y Wang, T Du, S Jegelka, Y Wang][![](https://img.shields.io/badge/Overviewed-366588)]()
+
 - `arXiv-2025` **O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning** [[paper](https://arxiv.org/abs/2501.12570)][[code](https://github.com/StarDewXXX/O1-Pruner)][H Luo, L Shen, H He, Y Wang, S Liu, W Li…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `arXiv-2025` **CoT-Valve: Length-Compressible Chain-of-Thought Tuning** [[paper](https://arxiv.org/abs/2502.09601)][X Ma, G Wan, R Yu, G Fang, X Wang][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
@@ -141,6 +148,12 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 - `arXiv-2025` **Stepwise perplexity-guided refinement for efficient chain-of-thought reasoning in large language models** [[paper](https://arxiv.org/abs/2502.13260)][Y Cui, P He, J Zeng, H Liu, X Tang, Z Dai, Y Han…][![](https://img.shields.io/badge/Overviewed-366588)]()
 
 - `arxiv-2025` **Meta-Reasoner: Dynamic Guidance for Optimized Inference-time Reasoning in Large Language Models** [[paper](https://arxiv.org/abs/2502.19918)][[code]()][Y Sui, Y He, T Cao, S Han, B Hooi][![](https://img.shields.io/badge/Overviewed-366588)]()
+
+- `arXiv-2024` **Training large language models to reason in a continuous latent space** [[paper](https://arxiv.org/abs/2412.06769)][[code](https://github.com/facebookresearch/coconut)][S Hao, S Sukhbaatar, DJ Su, X Li, Z Hu…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+
+- `arXiv-2024` **Efficiently Serving LLM Reasoning Programs with Certaindex** [[paper](https://arxiv.org/abs/2412.20993)][Y Fu, J Chen, S Zhu, Z Fu, Z Dai, A Qiao…][![](https://img.shields.io/badge/Overviewed-366588)]()
+
 
 - `arXiv-2024` **Token-budget-aware llm reasoning** [[paper](https://arxiv.org/abs/2412.18547)][[code](https://github.com/GeniusHTX/TALE)][T Han, Z Wang, C Fang, S Zhao, S Ma…][![](https://img.shields.io/badge/Overviewed-366588)]()
 
