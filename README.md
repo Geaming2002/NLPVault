@@ -124,7 +124,9 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 #### Long2short
 
-- `arXiv-2025` **Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models** [[paper](https://arxiv.org/abs/2503.16419)][Y Sui, YN Chuang, G Wang, J Zhang, T Zhang…]
+- `arXiv-2025` **Thinkprune: Pruning long chain-of-thought of llms via reinforcement learning** [[paper](https://arxiv.org/abs/2504.01296)][[code](https://github.com/UCSB-NLP-Chang/ThinkPrune)][B Hou, Y Zhang, J Ji, Y Liu, K Qian, J Andreas…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+- `arXiv-2025` **Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models** [[paper](https://arxiv.org/abs/2503.16419)][Y Sui, YN Chuang, G Wang, J Zhang, T Zhang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `arXiv-2025` **Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning** [[paper](https://arxiv.org/abs/2502.03275)][DJ Su, H Zhu, Y Xu, J Jiao, Y Tian, Q Zheng][![](https://img.shields.io/badge/Overviewed-366588)]()
 
