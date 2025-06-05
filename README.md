@@ -114,6 +114,8 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 ### CoT
 
+- `arXiv-2025` **OThink-R1: Intrinsic Fast/Slow Thinking Mode Switching for Over-Reasoning Mitigation** [[paper](http://arxiv.org/abs/2506.02397)][[code](https://github.com/AgenticIR-Lab/OThink-R1)][S Zhang, J Wu, J Chen...][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 - `arXiv-2023` **Chain-of-verification reduces hallucination in large language models** [[paper](https://arXiv.org/abs/2309.11495)][S Dhuliawala, M Komeili, J Xu, R Raileanu, X Li…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `ACL-2023 findings` **Towards reasoning in large language models: A survey** [[paper](https://arXiv.org/abs/2212.10403)][[code](https://github.com/jeffhj/LM-reasoning)][J Huang, KCC Chang][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
