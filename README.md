@@ -114,6 +114,8 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 ### CoT
 
+- `arXiv-2025` **Adaptthink: Reasoning models can learn when to think** [[paper](https://arxiv.org/abs/2505.13417)][[code](https://github.com/THU-KEG/AdaptThink)][J Zhang, N Lin, L Hou, L Feng, J Li][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 - `arXiv-2025` **OThink-R1: Intrinsic Fast/Slow Thinking Mode Switching for Over-Reasoning Mitigation** [[paper](http://arxiv.org/abs/2506.02397)][[code](https://github.com/AgenticIR-Lab/OThink-R1)][S Zhang, J Wu, J Chen...][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `ICLR-2025` **To cot or not to cot? chain-of-thought helps mainly on math and symbolic reasoning** [[paper](https://arxiv.org/abs/2409.12183)][[code](https://github.com/Zayne-sprague/To-CoT-or-not-to-CoT)][Z Sprague, F Yin, JD Rodriguez, D Jiang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
