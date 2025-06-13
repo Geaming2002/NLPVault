@@ -118,6 +118,8 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 - `arXiv-2025` **OThink-R1: Intrinsic Fast/Slow Thinking Mode Switching for Over-Reasoning Mitigation** [[paper](http://arxiv.org/abs/2506.02397)][[code](https://github.com/AgenticIR-Lab/OThink-R1)][S Zhang, J Wu, J Chen...][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
+- `ACL-2025` **Softcot: Soft chain-of-thought for efficient reasoning with llms** [[paper](https://arxiv.org/abs/2502.12134)][[code](https://github.com/xuyige/SoftCoT?tab=readme-ov-file)][Y Xu, X Guo, Z Zeng, C Miao][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 - `ICLR-2025` **To cot or not to cot? chain-of-thought helps mainly on math and symbolic reasoning** [[paper](https://arxiv.org/abs/2409.12183)][[code](https://github.com/Zayne-sprague/To-CoT-or-not-to-CoT)][Z Sprague, F Yin, JD Rodriguez, D Jiang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `arXiv-2023` **Chain-of-verification reduces hallucination in large language models** [[paper](https://arXiv.org/abs/2309.11495)][S Dhuliawala, M Komeili, J Xu, R Raileanu, X Li…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
@@ -135,7 +137,6 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 - `arXiv-2025` **Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models** [[paper](https://arxiv.org/abs/2503.16419)][Y Sui, YN Chuang, G Wang, J Zhang, T Zhang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `arXiv-2025` **Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning** [[paper](https://arxiv.org/abs/2502.03275)][DJ Su, H Zhu, Y Xu, J Jiao, Y Tian, Q Zheng][![](https://img.shields.io/badge/Overviewed-366588)]()
-
 
 - `arXiv-2025` **CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation** [[paper](https://arxiv.org/abs/2502.21074)][Z Shen, H Yan, L Zhang, Z Hu, Y Du, Y He][![](https://img.shields.io/badge/Overviewed-366588)]()
 
@@ -161,12 +162,9 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 - `arXiv-2024` **Training large language models to reason in a continuous latent space** [[paper](https://arxiv.org/abs/2412.06769)][[code](https://github.com/facebookresearch/coconut)][S Hao, S Sukhbaatar, DJ Su, X Li, Z Hu…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
-
 - `arXiv-2024` **Efficiently Serving LLM Reasoning Programs with Certaindex** [[paper](https://arxiv.org/abs/2412.20993)][Y Fu, J Chen, S Zhu, Z Fu, Z Dai, A Qiao…][![](https://img.shields.io/badge/Overviewed-366588)]()
 
-
 - `arXiv-2024` **Token-budget-aware llm reasoning** [[paper](https://arxiv.org/abs/2412.18547)][[code](https://github.com/GeniusHTX/TALE)][T Han, Z Wang, C Fang, S Zhao, S Ma…][![](https://img.shields.io/badge/Overviewed-366588)]()
-
 
 - `NeurIPS-2022` **Chain-of-thought prompting elicits reasoning in large language models** [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html)][J Wei, X Wang, D Schuurmans…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
@@ -229,7 +227,6 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 ### Reasoning LLMs
 
 - `arXiv-2025` **From System 1 to System 2: A Survey of Reasoning Large Language Models** [[paper](https://arxiv.org/abs/2502.17419)][[code](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)][ZZ Li, D Zhang, ML Zhang, J Zhang, Z Liu…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
-
 
 ### Reforcement Learning
 
@@ -303,7 +300,6 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 - `arXiv-2024` **Phi-4 Technical Report** [[paper](https://arxiv.org/abs/2412.08905)][[code]()][M Abdin, J Aneja, H Behl, S Bubeck, R Eldan…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `arXiv-2025` **Kimi k1. 5: Scaling reinforcement learning with llms** [[paper](https://arxiv.org/abs/2501.12599)][K Team, A Du, B Gao, B Xing, C Jiang, C Chen…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
-
 
 ### Text Generation
 
