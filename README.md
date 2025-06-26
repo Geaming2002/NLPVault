@@ -114,7 +114,7 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 ### CoT
 
-- `` **Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space** [[paper](https://arxiv.org/abs/2505.15778)][[code](https://github.com/eric-ai-lab/Soft-Thinking)][Z Zhang, X He, W Yan, A Shen, C Zhao, S Wang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+- `arXiv-2025` **Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space** [[paper](https://arxiv.org/abs/2505.15778)][[code](https://github.com/eric-ai-lab/Soft-Thinking)][Z Zhang, X He, W Yan, A Shen, C Zhao, S Wang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `arXiv-2025` **Adaptthink: Reasoning models can learn when to think** [[paper](https://arxiv.org/abs/2505.13417)][[code](https://github.com/THU-KEG/AdaptThink)][J Zhang, N Lin, L Hou, L Feng, J Li][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
