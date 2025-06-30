@@ -25,6 +25,7 @@
   - [Reasoning LLMs](#reasoning-llms)
   - [Reforcement Learning](#reforcement-learning)
   - [Retrieval Augmented Generation](#retrieval-augmented-generation)
+  - [Reward](#reward)
   - [Safety, Security and Privacy](#safety-security-and-privacy)
     - [A. Safety](#a-safety)
     - [B. Security](#b-security)
@@ -271,6 +272,11 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 - `ICML-2020` **Retrieval augmented language model pre-training** [[paper](http://proceedings.mlr.press/v119/guu20a.html?ref=https://githubhelp.com)][K Guu, K Lee, Z Tung, P Pasupat…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `ACL-2019` **Latent retrieval for weakly supervised open domain question answering** [[paper](https://arXiv.org/abs/1906.00300)][K Lee, MW Chang, K Toutanova][![](https://img.shields.io/badge/PendingReview-e2fbbe)]()
+
+### Reward
+
+- `ICML-2025` **R\*: Efficient Reward Design via Reward Structure Evolution and Parameter Alignment Optimization with Large Language Models** [[paper](https://openreview.net/forum?id=qZMLrURRr9)][P Li, HAO Jianye, H Tang, Y Yuan, J Qiao…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 
 ### Safety, Security and Privacy
 
