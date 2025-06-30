@@ -277,6 +277,8 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 - `ICML-2025` **R\*: Efficient Reward Design via Reward Structure Evolution and Parameter Alignment Optimization with Large Language Models** [[paper](https://openreview.net/forum?id=qZMLrURRr9)][P Li, HAO Jianye, H Tang, Y Yuan, J Qiao…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
+- `ICLR-2024` **Eureka: Human-level reward design via coding large language models** [[paper](https://arxiv.org/abs/2310.12931)][[code](https://github.com/eureka-research/Eureka)][YJ Ma, W Liang, G Wang, DA Huang, O Bastani…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 
 ### Safety, Security and Privacy
 
