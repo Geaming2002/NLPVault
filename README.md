@@ -116,13 +116,9 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 ### CoT
 
-- `arXiv-2025` **Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space** [[paper](https://arxiv.org/abs/2505.15778)][[code](https://github.com/eric-ai-lab/Soft-Thinking)][Z Zhang, X He, W Yan, A Shen, C Zhao, S Wang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
-
 - `arXiv-2025` **Adaptthink: Reasoning models can learn when to think** [[paper](https://arxiv.org/abs/2505.13417)][[code](https://github.com/THU-KEG/AdaptThink)][J Zhang, N Lin, L Hou, L Feng, J Li][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `arXiv-2025` **OThink-R1: Intrinsic Fast/Slow Thinking Mode Switching for Over-Reasoning Mitigation** [[paper](http://arxiv.org/abs/2506.02397)][[code](https://github.com/AgenticIR-Lab/OThink-R1)][S Zhang, J Wu, J Chen...][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
-
-- `ACL-2025` **Softcot: Soft chain-of-thought for efficient reasoning with llms** [[paper](https://arxiv.org/abs/2502.12134)][[code](https://github.com/xuyige/SoftCoT?tab=readme-ov-file)][Y Xu, X Guo, Z Zeng, C Miao][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `ICLR-2025` **To cot or not to cot? chain-of-thought helps mainly on math and symbolic reasoning** [[paper](https://arxiv.org/abs/2409.12183)][[code](https://github.com/Zayne-sprague/To-CoT-or-not-to-CoT)][Z Sprague, F Yin, JD Rodriguez, D Jiang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
@@ -211,6 +207,10 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 ### Latent Space Reasoning
 
 - `arXiv-2025` **Hybrid Latent Reasoning via Reinforcement Learning** [[paper](https://arxiv.org/abs/2505.18454)][[code](https://github.com/Yueeeeeeee/HRPO)][Z Yue, B Jin, H Zeng, H Zhuang, Z Qin, J Yoon…]
+
+- `arXiv-2025` **Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space** [[paper](https://arxiv.org/abs/2505.15778)][[code](https://github.com/eric-ai-lab/Soft-Thinking)][Z Zhang, X He, W Yan, A Shen, C Zhao, S Wang…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+- `ACL-2025` **Softcot: Soft chain-of-thought for efficient reasoning with llms** [[paper](https://arxiv.org/abs/2502.12134)][[code](https://github.com/xuyige/SoftCoT?tab=readme-ov-file)][Y Xu, X Guo, Z Zeng, C Miao][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 ### Model
 
