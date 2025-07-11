@@ -18,6 +18,7 @@
   - [Data Leakage](#data-leakage)
   - [In Context Learning](#in-context-learning)
   - [Interpretability](#interpretability)
+  - [Latent Space Reasoning](#latent-space-reasoning)
   - [Model](#model)
   - [Others](#others)
   - [Post-training](#post-training)
@@ -207,6 +208,10 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 - `arXiv-2024` **Scaling and evaluating sparse autoencoders** [[paper](https://arxiv.org/abs/2406.04093)][[code](https://github.com/openai/sparse_autoencoder)][L Gao, TD la Tour, H Tillman, G Goh, R Troll…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
+### Latent Space Reasoning
+
+- `arXiv-2025` **Hybrid Latent Reasoning via Reinforcement Learning** [[paper](https://arxiv.org/abs/2505.18454)][[code](https://github.com/Yueeeeeeee/HRPO)][Z Yue, B Jin, H Zeng, H Zhuang, Z Qin, J Yoon…]
+
 ### Model
 
 - `arXiv-2023` **Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey** [[paper](https://arXiv.org/abs/2311.12351)][[code](https://github.com/Strivin0311/long-llms-learning)][Y Huang, J Xu, Z Jiang, J Lai…][![](https://img.shields.io/badge/Overviewed-366588)]()
@@ -278,7 +283,6 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 - `ICML-2025` **R\*: Efficient Reward Design via Reward Structure Evolution and Parameter Alignment Optimization with Large Language Models** [[paper](https://openreview.net/forum?id=qZMLrURRr9)][P Li, HAO Jianye, H Tang, Y Yuan, J Qiao…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `ICLR-2024` **Eureka: Human-level reward design via coding large language models** [[paper](https://arxiv.org/abs/2310.12931)][[code](https://github.com/eureka-research/Eureka)][YJ Ma, W Liang, G Wang, DA Huang, O Bastani…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
-
 
 ### Safety, Security and Privacy
 
