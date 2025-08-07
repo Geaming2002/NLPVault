@@ -238,6 +238,8 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 ### Reforcement Learning
 
+- `arXiv-2025` **Group Sequence Policy Optimization** [[paper](https://arxiv.org/abs/2507.18071)][C Zheng, S Liu, M Li, XH Chen, B Yu, C Gao…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 - `arXiv-2025` **The surprising effectiveness of negative reinforcement in LLM reasoning** [[paper](https://arxiv.org/abs/2506.01347)][[code](https://github.com/TianHongZXY/RLVR-Decomposed)][X Zhu, M Xia, Z Wei, WL Chen, D Chen…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 
