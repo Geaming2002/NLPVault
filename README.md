@@ -238,6 +238,9 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 ### Reforcement Learning
 
+- `arXiv-2025` **Bridging supervised learning and reinforcement learning in math reasoning** [[paper](https://arxiv.org/abs/2505.18116)][[code](https://github.com/NVlabs/NFT)][H Chen, K Zheng, Q Zhang, G Cui, Y Cui, H Ye…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
+
 - `arXiv-2025` **RLPR: Extrapolating RLVR to General Domains without Verifiers** [[paper](https://arxiv.org/abs/2506.18254)][[code](https://github.com/openbmb/RLPR)][T Yu, B Ji, S Wang, S Yao, Z Wang, G Cui…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `arXiv-2025` **Group Sequence Policy Optimization** [[paper](https://arxiv.org/abs/2507.18071)][C Zheng, S Liu, M Li, XH Chen, B Yu, C Gao…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
