@@ -238,6 +238,8 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 ### Reforcement Learning
 
+- `arXiv-2025` **Reinforcing General Reasoning without Verifiers** [[paper](https://arxiv.org/abs/2505.21493)][[code](https://github.com/sail-sg/VeriFree)][X Zhou, Z Liu, A Sims, H Wang, T Pang, C Li…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 - `arXiv-2025` **Bridging supervised learning and reinforcement learning in math reasoning** [[paper](https://arxiv.org/abs/2505.18116)][[code](https://github.com/NVlabs/NFT)][H Chen, K Zheng, Q Zhang, G Cui, Y Cui, H Ye…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 
