@@ -238,6 +238,8 @@ Eg. `ACL-2023` **Title** [paper] [code] .. [authors]![](https://img.shields.io/b
 
 ### Reforcement Learning
 
+- `arXiv-2025` **ΔL Normalization: Rethink Loss Aggregation in RLVR** [[paper](https://arxiv.org/abs/2509.07558)][[code](https://github.com/zerolllin/Delta-L-Normalization)][Z He, X Luo, Y Zhang, Y Yang, L Qiu][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
+
 - `arXiv-2025` **Process reinforcement through implicit rewards** [[paper](https://arxiv.org/abs/2502.01456)][[code](https://github.com/PRIME-RL/PRIME)][G Cui, L Yuan, Z Wang, H Wang, W Li, B He…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
 
 - `arXiv-2025` **Reinforcing General Reasoning without Verifiers** [[paper](https://arxiv.org/abs/2505.21493)][[code](https://github.com/sail-sg/VeriFree)][X Zhou, Z Liu, A Sims, H Wang, T Pang, C Li…][![](https://img.shields.io/badge/DetailedReviewed-0c1f2f)]()
